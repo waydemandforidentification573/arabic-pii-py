@@ -1,0 +1,13 @@
+The Central Bank of Bahrain illustrates the IBAN format with the example BH50NBOB00001299123456 (printed as BH50 NBOB 0000 1299 1234 56).
+For a normal account number of BHD18123456701 the resulting Standard Chartered IBAN is BH89SCBLBHD18123456701.
+Example of an IBAN as published by the Central Bank of Bahrain: BH29BMAG1299123456BH00.
+IBAN example in Bahrain (electronic format): BH67BMAG00001299123456, which prints as BH67 BMAG 0000 1299 1234 56.
+Bahrain: BH02CITI00001077181611 is listed as the representative IBAN example in the international IBAN structure registry.
+If your Account No is 200001111111, the International Bank Account Number (IBAN) will be BH79BIBB00200001111111.
+National Bank of Bahrain IBAN example in Bahrain: BH17NBOB00000059805684, where NBOB is the bank identifier.
+IBAN Example for Ahli United Bank B.S.C. in Bahrain: BH08AUBB00001300475001.
+IBAN Example for Bank of Bahrain and Kuwait in Bahrain: BH71BBKB42194892411578.
+IBAN Example for Standard Chartered Bank in Bahrain: BH60SCBL83989471965934.
+IBAN Example for Al Salam Bank in Bahrain: BH98ALSA00000134150031.
+IBAN Example for Bahrain Islamic Bank in Bahrain: BH88BIBB66048764759382.
+IBAN Example for Gulf International Bank, B.S.C. in Bahrain: BH27GIBB15659387784080.

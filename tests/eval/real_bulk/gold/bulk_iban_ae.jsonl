@@ -1,0 +1,31 @@
+{"file": "bulk_iban_ae.txt", "start": 57, "end": 85, "kind": "IBAN", "text": "AE69 0240 0025 2051 1717 801", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 186, "end": 214, "kind": "IBAN", "text": "AE91 0240 0025 2051 1714 301", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 283, "end": 311, "kind": "IBAN", "text": "AE64 0240 0025 2051 1714 302", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 387, "end": 415, "kind": "IBAN", "text": "AE37 0240 0025 2051 1714 303", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 479, "end": 507, "kind": "IBAN", "text": "AE13 0500 0000 0001 2888 809", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 574, "end": 602, "kind": "IBAN", "text": "AE15 0500 0000 0001 2888 870", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 674, "end": 702, "kind": "IBAN", "text": "AE42 0500 0000 0002 2222 112", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 756, "end": 784, "kind": "IBAN", "text": "AE30 0260 0010 1223 2521 201", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 841, "end": 869, "kind": "IBAN", "text": "AE03 0260 0010 1223 2521 202", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 945, "end": 973, "kind": "IBAN", "text": "AE63 0230 0000 0100 1246 154", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1031, "end": 1059, "kind": "IBAN", "text": "AE41 0230 0000 0100 1246 162", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1117, "end": 1145, "kind": "IBAN", "text": "AE29 0340 0037 0726 1001 801", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1242, "end": 1265, "kind": "IBAN", "text": "AE350410000011445518006", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1353, "end": 1376, "kind": "IBAN", "text": "AE020340003518492868201", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1455, "end": 1478, "kind": "IBAN", "text": "AE970240001520087156301", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1549, "end": 1572, "kind": "IBAN", "text": "AE530340003707519928901", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1634, "end": 1657, "kind": "IBAN", "text": "AE810260000515773715701", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1727, "end": 1750, "kind": "IBAN", "text": "AE070351191324650474001", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1820, "end": 1843, "kind": "IBAN", "text": "AE050240001520087156308", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 1938, "end": 1961, "kind": "IBAN", "text": "AE040410000011430430020", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2036, "end": 2059, "kind": "IBAN", "text": "AE140410000011430430034", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2144, "end": 2167, "kind": "IBAN", "text": "AE050410000011430430002", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2268, "end": 2291, "kind": "IBAN", "text": "AE260410000011430430012", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2346, "end": 2369, "kind": "IBAN", "text": "AE310410000011430430019", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2461, "end": 2484, "kind": "IBAN", "text": "AE740410000011430430021", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2540, "end": 2563, "kind": "IBAN", "text": "AE900410000011430430024", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2655, "end": 2678, "kind": "IBAN", "text": "AE460410000011430430040", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2772, "end": 2800, "kind": "IBAN", "text": "AE50 0260 0010 1467 9421 501", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 2899, "end": 2922, "kind": "IBAN", "text": "AE470230000001000351229", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 3029, "end": 3052, "kind": "IBAN", "text": "AE080410000011200147001", "confidence_floor": 0.85}
+{"file": "bulk_iban_ae.txt", "start": 3163, "end": 3186, "kind": "IBAN", "text": "AE390260001102425560201", "confidence_floor": 0.85}

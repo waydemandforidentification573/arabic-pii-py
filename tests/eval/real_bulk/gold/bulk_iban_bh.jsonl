@@ -1,0 +1,13 @@
+{"file": "bulk_iban_bh.txt", "start": 73, "end": 95, "kind": "IBAN", "text": "BH50NBOB00001299123456", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 225, "end": 247, "kind": "IBAN", "text": "BH89SCBLBHD18123456701", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 313, "end": 335, "kind": "IBAN", "text": "BH29BMAG1299123456BH00", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 382, "end": 404, "kind": "IBAN", "text": "BH67BMAG00001299123456", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 460, "end": 482, "kind": "IBAN", "text": "BH02CITI00001077181611", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 663, "end": 685, "kind": "IBAN", "text": "BH79BIBB00200001111111", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 737, "end": 759, "kind": "IBAN", "text": "BH17NBOB00000059805684", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 849, "end": 871, "kind": "IBAN", "text": "BH08AUBB00001300475001", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 929, "end": 951, "kind": "IBAN", "text": "BH71BBKB42194892411578", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 1006, "end": 1028, "kind": "IBAN", "text": "BH60SCBL83989471965934", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 1073, "end": 1095, "kind": "IBAN", "text": "BH98ALSA00000134150031", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 1147, "end": 1169, "kind": "IBAN", "text": "BH88BIBB66048764759382", "confidence_floor": 0.85}
+{"file": "bulk_iban_bh.txt", "start": 1232, "end": 1254, "kind": "IBAN", "text": "BH27GIBB15659387784080", "confidence_floor": 0.85}

@@ -1,0 +1,6 @@
+{"file": "english_news_bio.txt", "start": 140, "end": 159, "kind": "PERSON", "text": "Ahmed Hassan Zewail", "confidence_floor": 0.85}
+{"file": "english_news_bio.txt", "start": 339, "end": 373, "kind": "ORGANIZATION", "text": "California Institute of Technology", "confidence_floor": 0.85}
+{"file": "english_news_bio.txt", "start": 406, "end": 429, "kind": "PERSON", "text": "Saad Abdulaziz Alrashid", "confidence_floor": 0.85}
+{"file": "english_news_bio.txt", "start": 541, "end": 557, "kind": "PERSON", "text": "Sarah Al-Suhaimi", "confidence_floor": 0.85}
+{"file": "english_news_bio.txt", "start": 770, "end": 811, "kind": "PERSON", "text": "Bodour bint Sultan bin Mohammed Al Qasimi", "confidence_floor": 0.85}
+{"file": "english_news_bio.txt", "start": 839, "end": 869, "kind": "ORGANIZATION", "text": "American University of Sharjah", "confidence_floor": 0.85}

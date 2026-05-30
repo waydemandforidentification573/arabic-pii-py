@@ -1,0 +1,2 @@
+Accordingly, the IBAN of this account is OM810180000001299123456.
+Oman IBAN example (ISO IBAN registry): OM040280000012345678901 — country code OM followed by 2 check digits and the BBAN.

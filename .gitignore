@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets / config — never commit
+.local/
+*.env
+.env
+*.vault
+
+# NER models (210 MB int8 ONNX; hosted externally, not in git)
+models/
+*.onnx
+
+# mkdocs (docs site is not part of the package; built output + local setup)
+site/
+mkdocs.yml
+/docs/index.md
+/docs/reference.md
+/docs/stylesheets/
+
+# OS
+.DS_Store

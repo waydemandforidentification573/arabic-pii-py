@@ -1,0 +1,28 @@
+IBAN Calculator — Frequently Asked Questions / حاسبة الآيبان — الأسئلة الشائعة
+======================================================================
+Q: What does a valid IBAN look like in my country?
+A: Below are the standard worked examples published in the public IBAN
+   registry for each GCC member state. Use them only to check the shape
+   and length of your own IBAN — they are documentation samples.
+
+Saudi Arabia (SA, 24 chars): SA4420000001234567891234
+   Printed grouping: SA44 2000 0001 2345 6789 1234
+
+United Arab Emirates (AE, 23 chars): AE460090000000123456789
+
+Qatar (QA, 29 chars): QA54QNBA000000000000693123456
+
+Kuwait (KW, 30 chars): KW81CBKU0000000000001234560101
+
+Bahrain (BH, 22 chars): BH02CITI00001077181611
+
+Oman (OM, 23 chars): OM040280000012345678901
+
+Q: ما هو نموذج الآيبان المعتمد لدى البنك المركزي السعودي؟
+A: المثال الرسمي المنشور في لائحة مؤسسة النقد (ساما) هو:
+   الصيغة المطبوعة: SA39 1500 0999 1031 4343 0001
+   الصيغة الإلكترونية: SA3915000999103143430001
+
+Q: Do these examples belong to a real customer?
+A: No. They are reference samples only and must never be used to send
+   money. Always obtain your own IBAN from your bank statement.

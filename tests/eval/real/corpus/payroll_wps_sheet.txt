@@ -1,0 +1,20 @@
+Payroll / WPS Run — Employer & Beneficiary Sheet
+كشف الرواتب / حماية الأجور — بيانات صاحب العمل والمستفيد
+======================================================================
+Employer legal name: Jarir Marketing Company
+Employer Commercial Registration: 1010032264
+Employer VAT number: 300056289500003
+Employer disbursement IBAN: SA4420000001234567891234
+
+Run reference: monthly salary cycle
+Establishment contact telephone: +966 11 467 0000
+
+Beneficiary bank routing examples used by the WPS file validator:
+   Bahrain credit IBAN: BH02CITI00001077181611
+   Kuwait credit IBAN: KW81CBKU0000000000001234560101
+   Oman credit IBAN: OM040280000012345678901
+
+----------------------------------------------------------------------
+Note: WPS files carry the employer's commercial-registration number and
+each beneficiary's IBAN. The IBANs above are published reference
+samples, not live employee accounts.

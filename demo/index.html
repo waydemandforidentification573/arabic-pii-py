@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>apii · Arabic / GCC PII protection — live playground</title>
+  <meta name="description" content="See it live: Arabic & GCC personal data swapped for reversible tokens before it reaches an LLM — and restored locally for you. Runs 100% in your browser." />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+</head>
+<body>
+  <!-- privacy banner -->
+  <div class="privacy-bar" id="privacy-bar" role="note">
+    🔒 Runs <strong>100% locally</strong> via the real <span class="mono">apii</span> engine on <code>127.0.0.1</code> — no outbound calls. Type anything; nothing leaves your machine.
+  </div>
+
+  <header class="hero">
+    <div class="wrap">
+      <h1><span class="mono">apii</span> — keep Arabic &amp; GCC PII off the LLM</h1>
+      <p class="tagline">
+        Names, IBANs, national IDs, phones, emails get swapped for <em>reversible tokens</em>
+        before anything reaches Claude / GPT — and restored locally, just for you.
+      </p>
+      <div class="cta-row">
+        <code class="install">pip install apii</code>
+        <a class="ghlink" href="https://github.com/Aajil-Labs/arabic-pii-py" target="_blank" rel="noopener">GitHub ↗</a>
+        <a class="ghlink" href="https://pypi.org/project/apii/" target="_blank" rel="noopener">PyPI ↗</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- examples -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>1 · Pick a sample <span class="muted">(or edit / paste your own)</span></h2>
+      </div>
+      <div id="examples" class="chips"></div>
+      <textarea id="input" spellcheck="false" aria-label="Text to protect" placeholder="Type or paste any text with Arabic / GCC PII — names, emails, phones, IBANs, IDs…"></textarea>
+      <div class="controls">
+        <label class="toggle">
+          <input type="checkbox" id="ner" checked />
+          Detect names &amp; organizations <span class="muted">(on-device NER — first run downloads ~210&nbsp;MB)</span>
+        </label>
+        <span id="status" class="status"></span>
+      </div>
+    </section>
+
+    <!-- the money shot: two boundaries -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>2 · Two boundaries</h2>
+        <div id="legend" class="legend"></div>
+      </div>
+      <div class="split">
+        <div class="view view-llm">
+          <div class="view-label"><span class="dot llm"></span> What the LLM receives <span class="muted">— only tokens</span></div>
+          <pre id="out-llm" class="rendered" aria-live="polite"></pre>
+        </div>
+        <div class="view view-you">
+          <div class="view-label"><span class="dot you"></span> What <em>you</em> see <span class="muted">— real values, on your machine</span></div>
+          <pre id="out-you" class="rendered" aria-live="polite"></pre>
+        </div>
+      </div>
+    </section>
+
+    <!-- vault -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>3 · The vault <span class="muted">— token ↔ real value, encrypted &amp; local</span></h2>
+        <span id="vault-count" class="badge"></span>
+      </div>
+      <div class="table-wrap">
+        <table id="vault" class="vault">
+          <thead><tr><th>Token (the LLM sees this)</th><th>Type</th><th>Real value (stays with you)</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- round trip: real two-way restore -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>4 · Round trip — restore with the real engine</h2>
+        <button id="simulate" class="btn">▶ Generate a sample reply</button>
+      </div>
+      <p class="hint">
+        The model only ever knew tokens. Edit this reply — <strong>mangle a token's hex</strong>,
+        reorder them, add prose — then restore. Restoration runs in the <strong>real
+        <span class="mono">apii</span> engine</strong> (exact match + fuzzy fallback for tokens an LLM garbled).
+      </p>
+      <div class="rt-grid">
+        <div class="rt-col">
+          <div class="view-label"><span class="dot llm"></span> Model reply <span class="muted">— tokens, editable</span></div>
+          <textarea id="reply" class="reply-box" spellcheck="false" placeholder="Click “Generate a sample reply”, or paste any text containing tokens…"></textarea>
+          <button id="restore-btn" class="btn restore">Restore locally →</button>
+        </div>
+        <div class="rt-col">
+          <div class="view-label"><span class="dot you"></span> Restored locally <span class="muted">— real values, on your machine</span></div>
+          <pre id="restored" class="rendered"></pre>
+          <div id="restore-status" class="status"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>
+      Powered by the real <code>apii</code> engine: Arabic + English on-device NER, regex + ISO-7064 MOD-97
+      checksums, an encrypted vault, a streaming LLM proxy, and transparent Claude Code hooks — all
+      <strong>100% local</strong>.
+    </p>
+    <p class="muted">© Aajil Labs · MIT OR Apache-2.0 · Example data is synthetic.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

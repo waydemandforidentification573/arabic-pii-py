@@ -1,0 +1,20 @@
+ZATCA / FATOORA — Simplified Tax Invoice (worked example)
+فاتورة ضريبية مبسطة — مثال هيئة الزكاة والضريبة والجمارك
+======================================================================
+This excerpt reproduces the seller fields from the published ZATCA
+QR-code worked example used in the developer guidance.
+
+Seller's name: Bobs Records
+VAT registration number of the seller: 310122393500003
+Time stamp of the invoice (date and time): 2022-04-25T15:30:00Z
+Invoice total (with VAT): 1000.00 SAR
+VAT total: 150.00 SAR
+
+A second worked example in the same guidance uses the seller:
+Seller's name: Bobs Basement Records
+VAT registration number: 100025906700003
+Time stamp: 2022-04-25T15:30:00Z
+
+Note: every Saudi tax invoice must carry the supplier's 15-digit VAT
+number. For Saudi-established sellers the number begins with the GCC
+member-state digit 3.

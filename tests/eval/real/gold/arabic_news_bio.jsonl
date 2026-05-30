@@ -1,0 +1,4 @@
+{"file": "arabic_news_bio.txt", "start": 176, "end": 200, "kind": "PERSON", "text": "أحمد حسن زويل", "confidence_floor": 0.85}
+{"file": "arabic_news_bio.txt", "start": 523, "end": 567, "kind": "PERSON", "text": "سعد بن عبد العزيز الراشد", "confidence_floor": 0.85}
+{"file": "arabic_news_bio.txt", "start": 797, "end": 836, "kind": "PERSON", "text": "سارة بنت جماز السحيمي", "confidence_floor": 0.85}
+{"file": "arabic_news_bio.txt", "start": 1064, "end": 1119, "kind": "PERSON", "text": "بدور بنت سلطان بن محمد القاسمي", "confidence_floor": 0.85}

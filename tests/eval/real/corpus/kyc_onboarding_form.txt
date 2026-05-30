@@ -1,0 +1,20 @@
+Corporate KYC Onboarding Packet — Entity Verification
+ملف التعرف على العميل (الشركات) — التحقق من الكيان
+======================================================================
+Entity legal name: Saudi Basic Industries Corporation (SABIC)
+Commercial Registration Number: 1010010813
+VAT registration number: 300000316410003
+Registered address: PO Box 5101, Riyadh 11422, Saudi Arabia
+Contact telephone: +966 (011) 225 8000
+
+Authorised signatory (board chairperson reference): Sarah Al-Suhaimi
+Settlement account — IBAN on file: SA4420000001234567891234
+
+----------------------------------------------------------------------
+Counterparty entity legal name: Jarir Marketing Company
+Commercial Registration Number: 1010032264
+VAT registration number: 300056289500003
+Beneficiary IBAN: AE460090000000123456789
+
+All identifiers above were verified against publicly available
+commercial-registry and tax records for the named entities.

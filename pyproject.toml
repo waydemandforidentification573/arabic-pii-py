@@ -1,0 +1,96 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "apii"
+version = "0.1.1"
+description = "Arabic/GCC PII detection, tokenization, and streaming-interception gateway."
+requires-python = ">=3.10"
+license = { text = "MIT OR Apache-2.0" }
+authors = [{ name = "Aajil Labs", email = "labs@aajil.sa" }]
+readme = "README.md"
+keywords = ["pii", "arabic", "gcc", "ner", "redaction", "anonymization", "privacy", "llm", "tokenization"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Security",
+    "Topic :: Text Processing :: Linguistic",
+    "Natural Language :: Arabic",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "msgspec>=0.18",
+    # PyPI regex (not stdlib re). Recognizers need \p{Arabic} property
+    # classes and consistent \b semantics across non-ASCII — stdlib re
+    # offers neither. One import policy applied across every recognizer.
+    "regex>=2024.0",
+    # The `apii` console script ships in every install, so its CLI framework
+    # is a base dependency — `pip install apii` must launch the command.
+    "typer>=0.12",
+]
+
+[project.optional-dependencies]
+# Optional hot-path C extensions for large batches. Not required to run
+# the engine — the pure-Python path is the default.
+perf = ["pyahocorasick>=2.0", "onnxruntime>=1.17"]
+# On-device ONNX NER (Arabic hatmimoha/arabic-ner + English dslim/bert-base-NER),
+# int8. Light: no torch/transformers — onnxruntime runs the pre-exported graph,
+# tokenizers loads tokenizer.json. huggingface_hub auto-downloads the models
+# (cached) on first use so PERSON/ORG work with no manual setup.
+ner = ["onnxruntime>=1.17", "tokenizers>=0.15", "numpy>=1.24", "huggingface_hub>=0.20"]
+# Encrypted-vault persistence. The CLI framework (typer) is a base dep, so
+# `apii[cli]` only adds the cryptography for reading/writing encrypted vaults.
+cli = ["cryptography>=42.0"]
+# Document-format ingestion. csv/json/html/docx/xlsx are stdlib-only
+# (csv, json, html.parser, zipfile+xml.etree); only PDF text extraction
+# needs an external package.
+documents = ["pypdf>=4.0"]
+# Streaming-interception proxy (the core product surface).
+proxy = ["fastapi>=0.110", "uvicorn[standard]>=0.29", "httpx>=0.27"]
+dev = ["pytest>=8.0", "ruff>=0.6"]
+# The whole tool in one shot: CLI + on-device NER + streaming proxy + document
+# ingestion. Library embedders skip this and pull only the extras they touch.
+all = ["apii[ner,cli,proxy,documents]"]
+
+[project.scripts]
+apii = "apii.cli:app"
+
+[project.urls]
+Homepage = "https://github.com/Aajil-Labs/arabic-pii-py"
+Repository = "https://github.com/Aajil-Labs/arabic-pii-py"
+"NER models" = "https://huggingface.co/aajil-labs-sa/arabic-pii-ner"
+
+[tool.hatch.build.targets.wheel]
+packages = ["apii"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests/python"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+# Real-issue rules only: pycodestyle errors, pyflakes, warnings, import
+# order, and bugbear. Deliberately NOT pyupgrade/simplify (style churn) and
+# NOT E501 (dense explanatory comments are intentional).
+select = ["E", "F", "W", "I", "B"]
+ignore = [
+    "E501",  # line length — handled case-by-case; comments are intentional
+    "B008",  # typer.Option()/Argument() in defaults is the framework idiom
+    "B905",  # zip() strict= is defensive style; not enforced
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Tests legitimately assert on broad exceptions and import after an
+# importorskip() guard.
+"tests/**" = ["B017", "E402"]

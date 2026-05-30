@@ -1,0 +1,110 @@
+{"file": "bulk_org_gcc.txt", "start": 0, "end": 36, "kind": "ORGANIZATION", "text": "شركة إعمار العقارية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 162, "end": 178, "kind": "ORGANIZATION", "text": "Emaar Properties", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 300, "end": 327, "kind": "ORGANIZATION", "text": "طيران الإمارات", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 478, "end": 508, "kind": "ORGANIZATION", "text": "بنك دبي الإسلامي", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 616, "end": 634, "kind": "ORGANIZATION", "text": "Dubai Islamic Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 706, "end": 749, "kind": "ORGANIZATION", "text": "بنك الإمارات دبي الوطني", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 938, "end": 950, "kind": "ORGANIZATION", "text": "أرامكس", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 1146, "end": 1152, "kind": "ORGANIZATION", "text": "Aramex", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 1305, "end": 1317, "kind": "ORGANIZATION", "text": "Emirates NBD", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 1410, "end": 1418, "kind": "ORGANIZATION", "text": "Emirates", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 1467, "end": 1499, "kind": "ORGANIZATION", "text": "مصرف قطر الإسلامي", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 1605, "end": 1623, "kind": "ORGANIZATION", "text": "Qatar Islamic Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 1706, "end": 1745, "kind": "ORGANIZATION", "text": "مجموعة بنك قطر الوطني", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 1945, "end": 1954, "kind": "ORGANIZATION", "text": "QNB Group", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 2072, "end": 2084, "kind": "ORGANIZATION", "text": "أوريدو", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 2213, "end": 2220, "kind": "ORGANIZATION", "text": "Ooredoo", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 2285, "end": 2317, "kind": "ORGANIZATION", "text": "بنك الكويت الوطني", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 2496, "end": 2532, "kind": "ORGANIZATION", "text": "بيت التمويل الكويتي", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 2622, "end": 2649, "kind": "ORGANIZATION", "text": "إس تي سي الكويت", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 2877, "end": 2887, "kind": "ORGANIZATION", "text": "STC Kuwait", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 3001, "end": 3024, "kind": "ORGANIZATION", "text": "National Bank of Kuwait", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 3170, "end": 3190, "kind": "ORGANIZATION", "text": "Kuwait Finance House", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 3236, "end": 3255, "kind": "ORGANIZATION", "text": "مجموعة زين", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 3451, "end": 3529, "kind": "ORGANIZATION", "text": "شركة البحرين للاتصالات السلكية واللاسلكية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 3695, "end": 3729, "kind": "ORGANIZATION", "text": "Bahrain Telecommunications Company", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 3807, "end": 3822, "kind": "ORGANIZATION", "text": "بنك مسقط", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 3910, "end": 3944, "kind": "ORGANIZATION", "text": "بنك البحرين الوطني", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4035, "end": 4046, "kind": "ORGANIZATION", "text": "Bank Muscat", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4104, "end": 4128, "kind": "ORGANIZATION", "text": "National Bank of Bahrain", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4238, "end": 4288, "kind": "ORGANIZATION", "text": "الشركة العُمانية للإتصالات", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4381, "end": 4412, "kind": "ORGANIZATION", "text": "الطيران العُماني", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4600, "end": 4608, "kind": "ORGANIZATION", "text": "Oman Air", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4696, "end": 4734, "kind": "ORGANIZATION", "text": "مصرف أبوظبي الإسلامي", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4839, "end": 4861, "kind": "ORGANIZATION", "text": "Abu Dhabi Islamic Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 4940, "end": 4989, "kind": "ORGANIZATION", "text": "شركة الخطوط الجوية القطرية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 5159, "end": 5172, "kind": "ORGANIZATION", "text": "Qatar Airways", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 5234, "end": 5278, "kind": "ORGANIZATION", "text": "شركة الإمارات للاتصالات", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 5460, "end": 5479, "kind": "ORGANIZATION", "text": "صناعات قطر", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 5622, "end": 5658, "kind": "ORGANIZATION", "text": "شركة الدار العقارية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 5818, "end": 5834, "kind": "ORGANIZATION", "text": "Aldar Properties", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 5899, "end": 5934, "kind": "ORGANIZATION", "text": "بنك أبو ظبي التجاري", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 6091, "end": 6148, "kind": "ORGANIZATION", "text": "جامعة الإمارات العربية المتحدة", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 6296, "end": 6313, "kind": "ORGANIZATION", "text": "جامعة قطر", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 6466, "end": 6489, "kind": "ORGANIZATION", "text": "جامعة الكويت", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 6667, "end": 6703, "kind": "ORGANIZATION", "text": "جامعة السلطان قابوس", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 6865, "end": 6896, "kind": "ORGANIZATION", "text": "United Arab Emirates University", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 6977, "end": 6993, "kind": "ORGANIZATION", "text": "Qatar University", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7076, "end": 7093, "kind": "ORGANIZATION", "text": "Kuwait University", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7149, "end": 7173, "kind": "ORGANIZATION", "text": "Sultan Qaboos University", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7229, "end": 7248, "kind": "ORGANIZATION", "text": "بنك بوبيان", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7357, "end": 7374, "kind": "ORGANIZATION", "text": "بنك برقان", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7462, "end": 7481, "kind": "ORGANIZATION", "text": "بنك الخليج", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7691, "end": 7703, "kind": "ORGANIZATION", "text": "Boubyan Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7774, "end": 7812, "kind": "ORGANIZATION", "text": "البنك التجاري القطري", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 7956, "end": 7977, "kind": "ORGANIZATION", "text": "مصرف الريان", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 8169, "end": 8180, "kind": "ORGANIZATION", "text": "Burgan Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 8264, "end": 8273, "kind": "ORGANIZATION", "text": "Gulf Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 8352, "end": 8388, "kind": "ORGANIZATION", "text": "البنك الأهلي المتحد", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 8472, "end": 8479, "kind": "ORGANIZATION", "text": "Mashreq", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 8570, "end": 8606, "kind": "ORGANIZATION", "text": "بنك البحرين والكويت", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 8780, "end": 8806, "kind": "ORGANIZATION", "text": "Bank of Bahrain and Kuwait", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 8861, "end": 8884, "kind": "ORGANIZATION", "text": "طيران الخليج", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 9078, "end": 9086, "kind": "ORGANIZATION", "text": "Gulf Air", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 9176, "end": 9201, "kind": "ORGANIZATION", "text": "جامعة البحرين", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 9337, "end": 9358, "kind": "ORGANIZATION", "text": "University of Bahrain", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 9436, "end": 9471, "kind": "ORGANIZATION", "text": "شركة تنمية نفط عمان", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 9657, "end": 9683, "kind": "ORGANIZATION", "text": "Petroleum Development Oman", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 9764, "end": 9792, "kind": "ORGANIZATION", "text": "شركة نفط الكويت", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 9958, "end": 9996, "kind": "ORGANIZATION", "text": "بنك البحرين الإسلامي", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 10076, "end": 10118, "kind": "ORGANIZATION", "text": "الخطوط الجوية الكويتية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 10361, "end": 10379, "kind": "ORGANIZATION", "text": "Kuwait Oil Company", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 10448, "end": 10462, "kind": "ORGANIZATION", "text": "Kuwait Airways", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 10561, "end": 10581, "kind": "ORGANIZATION", "text": "Bahrain Islamic Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 10644, "end": 10673, "kind": "ORGANIZATION", "text": "الاتحاد للطيران", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 10804, "end": 10834, "kind": "ORGANIZATION", "text": "مصرف قطر المركزي", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 10953, "end": 10967, "kind": "ORGANIZATION", "text": "Etihad Airways", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 11027, "end": 11046, "kind": "ORGANIZATION", "text": "قطر للطاقة", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 11297, "end": 11308, "kind": "ORGANIZATION", "text": "QatarEnergy", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 11388, "end": 11426, "kind": "ORGANIZATION", "text": "البنك الوطني العماني", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 11539, "end": 11560, "kind": "ORGANIZATION", "text": "National Bank of Oman", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 11671, "end": 11707, "kind": "ORGANIZATION", "text": "شركة النفط العمانية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 11819, "end": 11850, "kind": "ORGANIZATION", "text": "ألومنيوم البحرين", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 12021, "end": 12071, "kind": "ORGANIZATION", "text": "شركة أبو ظبي الوطنية للطاقة", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 12192, "end": 12239, "kind": "ORGANIZATION", "text": "شركة بترول أبوظبي الوطنية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 12423, "end": 12453, "kind": "ORGANIZATION", "text": "Abu Dhabi National Oil Company", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 12551, "end": 12575, "kind": "ORGANIZATION", "text": "Aluminium Bahrain B.S.C.", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 12708, "end": 12742, "kind": "ORGANIZATION", "text": "موانئ دبي العالمية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 12855, "end": 12863, "kind": "ORGANIZATION", "text": "DP World", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 12937, "end": 12952, "kind": "ORGANIZATION", "text": "بنك دخان", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 13120, "end": 13139, "kind": "ORGANIZATION", "text": "بنك الدوحة", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 13284, "end": 13359, "kind": "ORGANIZATION", "text": "مؤسسة قطر للتربية والعلوم وتنمية المجتمع", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 13548, "end": 13564, "kind": "ORGANIZATION", "text": "Qatar Foundation", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 13630, "end": 13689, "kind": "ORGANIZATION", "text": "جامعة خليفة للعلوم والتكنولوجيا", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 13901, "end": 13919, "kind": "ORGANIZATION", "text": "Khalifa University", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 13994, "end": 14024, "kind": "ORGANIZATION", "text": "شركة نفط البحرين", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 14144, "end": 14174, "kind": "ORGANIZATION", "text": "مطار مسقط الدولي", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 14293, "end": 14337, "kind": "ORGANIZATION", "text": "مجموعة جي إف إتش المالية", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 14578, "end": 14597, "kind": "ORGANIZATION", "text": "GFH Financial Group", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 14711, "end": 14736, "kind": "ORGANIZATION", "text": "Bahrain Petroleum Company", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 14783, "end": 14836, "kind": "ORGANIZATION", "text": "الجامعة الأمريكية في الشارقة", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 14998, "end": 15028, "kind": "ORGANIZATION", "text": "American University of Sharjah", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 15091, "end": 15114, "kind": "ORGANIZATION", "text": "طيران السلام", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 15274, "end": 15282, "kind": "ORGANIZATION", "text": "SalamAir", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 15380, "end": 15422, "kind": "ORGANIZATION", "text": "Mobile Telecommunications Company K.S.C.P.", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 15498, "end": 15521, "kind": "ORGANIZATION", "text": "Industries Qatar Q.S.C.", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 15604, "end": 15625, "kind": "ORGANIZATION", "text": "فودافون قطر", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 15841, "end": 15865, "kind": "ORGANIZATION", "text": "Commercial Bank of Qatar", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 15920, "end": 15965, "kind": "ORGANIZATION", "text": "شركة ماجد الفطيم القابضة", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 16156, "end": 16177, "kind": "ORGANIZATION", "text": "بنك الإثمار", "confidence_floor": 0.85}
+{"file": "bulk_org_gcc.txt", "start": 16420, "end": 16432, "kind": "ORGANIZATION", "text": "Ithmaar Bank", "confidence_floor": 0.85}

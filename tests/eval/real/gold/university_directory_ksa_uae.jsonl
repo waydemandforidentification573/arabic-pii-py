@@ -1,0 +1,7 @@
+{"file": "university_directory_ksa_uae.txt", "start": 233, "end": 253, "kind": "ORGANIZATION", "text": "King Saud University", "confidence_floor": 0.85}
+{"file": "university_directory_ksa_uae.txt", "start": 333, "end": 349, "kind": "PHONE", "text": "+966 11 467 0000", "confidence_floor": 0.85}
+{"file": "university_directory_ksa_uae.txt", "start": 360, "end": 375, "kind": "EMAIL", "text": "info@ksu.edu.sa", "confidence_floor": 0.85}
+{"file": "university_directory_ksa_uae.txt", "start": 625, "end": 640, "kind": "PHONE", "text": "+971 3 701 7111", "confidence_floor": 0.85}
+{"file": "university_directory_ksa_uae.txt", "start": 649, "end": 664, "kind": "PHONE", "text": "+971 3 713 4343", "confidence_floor": 0.85}
+{"file": "university_directory_ksa_uae.txt", "start": 675, "end": 697, "kind": "EMAIL", "text": "servicedesk@uaeu.ac.ae", "confidence_floor": 0.85}
+{"file": "university_directory_ksa_uae.txt", "start": 710, "end": 824, "kind": "ADDRESS", "text": "United Arab Emirates University, P.O. Box 15551,\n   Sheik Khalifa Bin Zayed St, Asharij, Shiebat Al Oud, Abu Dhabi", "confidence_floor": 0.85}

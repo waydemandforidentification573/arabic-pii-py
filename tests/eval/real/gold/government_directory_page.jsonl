@@ -1,0 +1,12 @@
+{"file": "government_directory_page.txt", "start": 220, "end": 239, "kind": "ORGANIZATION", "text": "Saudi Tadawul Group", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 299, "end": 338, "kind": "PERSON", "text": "سارة بنت جماز السحيمي", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 340, "end": 356, "kind": "PERSON", "text": "Sarah Al-Suhaimi", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 380, "end": 422, "kind": "ORGANIZATION", "text": "Saudi Basic Industries Corporation (SABIC)", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 509, "end": 540, "kind": "ORGANIZATION", "text": "United Arab Emirates University", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 560, "end": 674, "kind": "ADDRESS", "text": "United Arab Emirates University, P.O. Box 15551,\n   Sheik Khalifa Bin Zayed St, Asharij, Shiebat Al Oud, Abu Dhabi", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 689, "end": 704, "kind": "PHONE", "text": "+971 3 701 7111", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 791, "end": 812, "kind": "ORGANIZATION", "text": "University of Bahrain", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 832, "end": 900, "kind": "ADDRESS", "text": "University of Bahrain, P.O. Box 32038, Sakhir,\n   Kingdom of Bahrain", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 911, "end": 929, "kind": "EMAIL", "text": "website@uob.edu.bh", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 1014, "end": 1044, "kind": "ORGANIZATION", "text": "جامعة الملك سعود", "confidence_floor": 0.85}
+{"file": "government_directory_page.txt", "start": 1064, "end": 1158, "kind": "ADDRESS", "text": "جامعة الملك سعود، الرياض، المملكة العربية السعودية", "confidence_floor": 0.85}

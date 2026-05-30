@@ -1,0 +1,7 @@
+{"file": "iban_calculator_faq.txt", "start": 471, "end": 495, "kind": "IBAN", "text": "SA4420000001234567891234", "confidence_floor": 0.85}
+{"file": "iban_calculator_faq.txt", "start": 585, "end": 608, "kind": "IBAN", "text": "AE460090000000123456789", "confidence_floor": 0.85}
+{"file": "iban_calculator_faq.txt", "start": 632, "end": 661, "kind": "IBAN", "text": "QA54QNBA000000000000693123456", "confidence_floor": 0.85}
+{"file": "iban_calculator_faq.txt", "start": 686, "end": 716, "kind": "IBAN", "text": "KW81CBKU0000000000001234560101", "confidence_floor": 0.85}
+{"file": "iban_calculator_faq.txt", "start": 742, "end": 764, "kind": "IBAN", "text": "BH02CITI00001077181611", "confidence_floor": 0.85}
+{"file": "iban_calculator_faq.txt", "start": 787, "end": 810, "kind": "IBAN", "text": "OM040280000012345678901", "confidence_floor": 0.85}
+{"file": "iban_calculator_faq.txt", "start": 1119, "end": 1143, "kind": "IBAN", "text": "SA3915000999103143430001", "confidence_floor": 0.85}

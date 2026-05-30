@@ -1,0 +1,12 @@
+{"file": "university_contact_gulf.txt", "start": 278, "end": 293, "kind": "PHONE", "text": "(+974) 44033333", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 304, "end": 319, "kind": "EMAIL", "text": "QUMCC@qu.edu.qa", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 498, "end": 512, "kind": "PHONE", "text": "+973 1743 8888", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 532, "end": 546, "kind": "PHONE", "text": "+973 1787 6666", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 557, "end": 575, "kind": "EMAIL", "text": "website@uob.edu.bh", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 588, "end": 656, "kind": "ADDRESS", "text": "University of Bahrain, P.O. Box 32038, Sakhir,\n   Kingdom of Bahrain", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 809, "end": 823, "kind": "PHONE", "text": "+965 2498 8888", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 834, "end": 853, "kind": "EMAIL", "text": "admission@ku.edu.kw", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 926, "end": 950, "kind": "ORGANIZATION", "text": "Sultan Qaboos University", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 1035, "end": 1043, "kind": "PHONE", "text": "24145989", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 1071, "end": 1088, "kind": "EMAIL", "text": "career@squ.edu.om", "confidence_floor": 0.85}
+{"file": "university_contact_gulf.txt", "start": 1101, "end": 1190, "kind": "ADDRESS", "text": "Sultan Qaboos University, Al Khoudh, P.O. Box: 50,\n   Postal Code: 123, Sultanate of Oman", "confidence_floor": 0.85}

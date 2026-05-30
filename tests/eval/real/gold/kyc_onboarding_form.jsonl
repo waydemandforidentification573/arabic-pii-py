@@ -1,0 +1,11 @@
+{"file": "kyc_onboarding_form.txt", "start": 238, "end": 280, "kind": "ORGANIZATION", "text": "Saudi Basic Industries Corporation (SABIC)", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 313, "end": 323, "kind": "COMMERCIAL_REGISTRATION", "text": "1010010813", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 349, "end": 364, "kind": "TAX_NUMBER", "text": "300000316410003", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 385, "end": 424, "kind": "ADDRESS", "text": "PO Box 5101, Riyadh 11422, Saudi Arabia", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 444, "end": 463, "kind": "PHONE", "text": "+966 (011) 225 8000", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 517, "end": 533, "kind": "PERSON", "text": "Sarah Al-Suhaimi", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 571, "end": 595, "kind": "IBAN", "text": "SA4420000001234567891234", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 700, "end": 723, "kind": "ORGANIZATION", "text": "Jarir Marketing Company", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 756, "end": 766, "kind": "COMMERCIAL_REGISTRATION", "text": "1010032264", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 792, "end": 807, "kind": "TAX_NUMBER", "text": "300056289500003", "confidence_floor": 0.85}
+{"file": "kyc_onboarding_form.txt", "start": 826, "end": 849, "kind": "IBAN", "text": "AE460090000000123456789", "confidence_floor": 0.85}

@@ -1,0 +1,8 @@
+{"file": "payroll_wps_sheet.txt", "start": 247, "end": 270, "kind": "ORGANIZATION", "text": "Jarir Marketing Company", "confidence_floor": 0.85}
+{"file": "payroll_wps_sheet.txt", "start": 305, "end": 315, "kind": "COMMERCIAL_REGISTRATION", "text": "1010032264", "confidence_floor": 0.85}
+{"file": "payroll_wps_sheet.txt", "start": 337, "end": 352, "kind": "TAX_NUMBER", "text": "300056289500003", "confidence_floor": 0.85}
+{"file": "payroll_wps_sheet.txt", "start": 381, "end": 405, "kind": "IBAN", "text": "SA4420000001234567891234", "confidence_floor": 0.85}
+{"file": "payroll_wps_sheet.txt", "start": 476, "end": 492, "kind": "PHONE", "text": "+966 11 467 0000", "confidence_floor": 0.85}
+{"file": "payroll_wps_sheet.txt", "start": 584, "end": 606, "kind": "IBAN", "text": "BH02CITI00001077181611", "confidence_floor": 0.85}
+{"file": "payroll_wps_sheet.txt", "start": 630, "end": 660, "kind": "IBAN", "text": "KW81CBKU0000000000001234560101", "confidence_floor": 0.85}
+{"file": "payroll_wps_sheet.txt", "start": 682, "end": 705, "kind": "IBAN", "text": "OM040280000012345678901", "confidence_floor": 0.85}

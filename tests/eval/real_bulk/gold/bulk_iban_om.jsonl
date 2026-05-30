@@ -1,0 +1,2 @@
+{"file": "bulk_iban_om.txt", "start": 41, "end": 64, "kind": "IBAN", "text": "OM810180000001299123456", "confidence_floor": 0.85}
+{"file": "bulk_iban_om.txt", "start": 105, "end": 128, "kind": "IBAN", "text": "OM040280000012345678901", "confidence_floor": 0.85}

@@ -1,0 +1,9 @@
+{"file": "press_contact_page.txt", "start": 274, "end": 290, "kind": "ORGANIZATION", "text": "Qatar University", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 335, "end": 350, "kind": "PHONE", "text": "(+974) 44033333", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 361, "end": 376, "kind": "EMAIL", "text": "QUMCC@qu.edu.qa", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 408, "end": 425, "kind": "ORGANIZATION", "text": "Kuwait University", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 470, "end": 484, "kind": "PHONE", "text": "+965 2498 8888", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 495, "end": 514, "kind": "EMAIL", "text": "admission@ku.edu.kw", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 516, "end": 536, "kind": "ORGANIZATION", "text": "King Saud University", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 572, "end": 588, "kind": "PHONE", "text": "+966 11 467 0000", "confidence_floor": 0.85}
+{"file": "press_contact_page.txt", "start": 599, "end": 614, "kind": "EMAIL", "text": "info@ksu.edu.sa", "confidence_floor": 0.85}

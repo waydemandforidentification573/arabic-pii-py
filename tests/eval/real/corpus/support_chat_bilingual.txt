@@ -1,0 +1,16 @@
+Support Chat Transcript — Cross-border transfer (bilingual)
+سجل محادثة الدعم — تحويل دولي (ثنائي اللغة)
+======================================================================
+Customer: مرحبا، أريد التحقق من الآيبان قبل إرسال حوالة لقطر.
+Agent: Sure. Please paste the full IBAN and I will validate it.
+Customer: الآيبان هو QA37QNBA000000000786746207060
+Agent: That validates fine — it is a Qatar National Bank account.
+Customer: تمام. والمستفيد جهة خيرية، رقم الحساب 0786-746207-060
+Agent: Noted. For the Saudi side, what is your own IBAN?
+Customer: SA3915000999103143430001
+Agent: Got it. If you need to reach our Doha branch, call (+974) 44033333.
+Customer: شكرا. ممكن إيميل للدعم؟
+Agent: You can write to QUMCC@qu.edu.qa for the campus partner programme,
+   or reply here for banking support.
+Customer: ولو احتجت الفرع السعودي؟
+Agent: Riyadh enquiries line is +966 11 467 0000.

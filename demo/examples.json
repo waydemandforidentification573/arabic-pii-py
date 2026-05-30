@@ -1,0 +1,35 @@
+{
+  "_note": "Synthetic GCC samples used as quick-fill buttons. Detection runs in the real apii engine (server.py) on whatever text is in the box — including names you type yourself. All values here are invented.",
+  "examples": [
+    {
+      "id": "sa-bank-kyc",
+      "title": "🏦 Saudi bank — KYC review",
+      "lang": "en",
+      "text": "Subject: New account — KYC review\n\nCustomer: Khalid Al-Otaibi\nEmail: khalid.alotaibi@example.sa\nMobile: 0551234567\nNational ID: 1098765432\nIBAN: SA0380000000608010167519\nEmployer: Najd Trading Co.\nVAT: 300055511122233"
+    },
+    {
+      "id": "ae-telco",
+      "title": "📱 UAE telco — account holder",
+      "lang": "en",
+      "text": "Account holder: Maryam Al Suwaidi\nEmirates ID: 784-1985-1234567-8\nPhone: +971 50 123 4567\nEmail: maryam.s@example.ae\nIBAN: AE070331234567890123456\nCompany: Gulf Falcon Telecom LLC"
+    },
+    {
+      "id": "sa-arabic",
+      "title": "🇸🇦 Arabic — ملف عميل",
+      "lang": "ar",
+      "text": "العميل: محمد بن سالم القحطاني\nرقم الجوال: 0506677889\nالبريد الإلكتروني: m.alqahtani@example.sa\nالهوية الوطنية: 1076543210\nالآيبان: SA0380000000608010167519\nالسجل التجاري: 1010567483"
+    },
+    {
+      "id": "qa-tax-invoice",
+      "title": "🧾 Qatar — tax invoice",
+      "lang": "en",
+      "text": "Tax Invoice — Doha Branch\nBill to: Fatima Al-Thani\nTRN: 300055511122233\nIBAN: QA25DOHA000012345678901234500\nPhone: +974 4423 0010\nEmail: fatima@example.qa\nCommercial Registration (CR) Number: 1010032264"
+    },
+    {
+      "id": "kw-shareholders",
+      "title": "📊 Kuwait — shareholder register",
+      "lang": "en",
+      "text": "Shareholder register (extract)\n\n— Aisha Al-Sabah — 287654321098 — 40%\n— Noor Hassan — 199012345678 — 35%\nIBAN KW81CBKU0000000000001234560101\nContact: 0512345678, board@example.com"
+    }
+  ]
+}

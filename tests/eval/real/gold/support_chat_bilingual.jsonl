@@ -1,0 +1,5 @@
+{"file": "support_chat_bilingual.txt", "start": 410, "end": 439, "kind": "IBAN", "text": "QA37QNBA000000000786746207060", "confidence_floor": 0.85}
+{"file": "support_chat_bilingual.txt", "start": 670, "end": 694, "kind": "IBAN", "text": "SA3915000999103143430001", "confidence_floor": 0.85}
+{"file": "support_chat_bilingual.txt", "start": 753, "end": 768, "kind": "PHONE", "text": "(+974) 44033333", "confidence_floor": 0.85}
+{"file": "support_chat_bilingual.txt", "start": 847, "end": 862, "kind": "EMAIL", "text": "QUMCC@qu.edu.qa", "confidence_floor": 0.85}
+{"file": "support_chat_bilingual.txt", "start": 1023, "end": 1039, "kind": "PHONE", "text": "+966 11 467 0000", "confidence_floor": 0.85}

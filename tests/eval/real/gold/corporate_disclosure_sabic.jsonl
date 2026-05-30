@@ -1,0 +1,7 @@
+{"file": "corporate_disclosure_sabic.txt", "start": 207, "end": 249, "kind": "ORGANIZATION", "text": "Saudi Basic Industries Corporation (SABIC)", "confidence_floor": 0.85}
+{"file": "corporate_disclosure_sabic.txt", "start": 280, "end": 343, "kind": "ORGANIZATION", "text": "الشركة السعودية للصناعات الأساسية", "confidence_floor": 0.85}
+{"file": "corporate_disclosure_sabic.txt", "start": 388, "end": 398, "kind": "COMMERCIAL_REGISTRATION", "text": "1010010813", "confidence_floor": 0.85}
+{"file": "corporate_disclosure_sabic.txt", "start": 432, "end": 447, "kind": "TAX_NUMBER", "text": "300000316410003", "confidence_floor": 0.85}
+{"file": "corporate_disclosure_sabic.txt", "start": 473, "end": 512, "kind": "ADDRESS", "text": "PO Box 5101, Riyadh 11422, Saudi Arabia", "confidence_floor": 0.85}
+{"file": "corporate_disclosure_sabic.txt", "start": 524, "end": 543, "kind": "PHONE", "text": "+966 (011) 225 8000", "confidence_floor": 0.85}
+{"file": "corporate_disclosure_sabic.txt", "start": 549, "end": 568, "kind": "PHONE", "text": "+966 (011) 225 9000", "confidence_floor": 0.85}

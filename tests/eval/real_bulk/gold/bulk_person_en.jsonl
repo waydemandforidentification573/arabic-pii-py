@@ -1,0 +1,90 @@
+{"file": "bulk_person_en.txt", "start": 0, "end": 27, "kind": "PERSON", "text": "Mohammed bin Salman Al Saud", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 124, "end": 160, "kind": "PERSON", "text": "Tamim bin Hamad bin Khalifa Al Thani", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 233, "end": 260, "kind": "PERSON", "text": "Mohamed bin Zayed Al Nahyan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 377, "end": 402, "kind": "PERSON", "text": "Haitham bin Tariq Al Said", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 468, "end": 503, "kind": "PERSON", "text": "Hamad bin Isa bin Salman Al Khalifa", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 569, "end": 597, "kind": "PERSON", "text": "Salman bin Abdulaziz Al Saud", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 693, "end": 723, "kind": "PERSON", "text": "Mohammed bin Rashid Al Maktoum", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 821, "end": 848, "kind": "PERSON", "text": "Al Waleed bin Talal Al Saud", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 950, "end": 983, "kind": "PERSON", "text": "Mishal Al-Ahmad Al-Jaber Al-Sabah", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1049, "end": 1084, "kind": "PERSON", "text": "Salman bin Hamad bin Isa Al Khalifa", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1187, "end": 1241, "kind": "PERSON", "text": "Mohammed bin Abdulrahman bin Jassim bin Jaber Al Thani", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1332, "end": 1392, "kind": "PERSON", "text": "Faisal bin Farhan bin Abdullah bin Faisal bin Farhan Al Saud", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1479, "end": 1518, "kind": "PERSON", "text": "Abdullah bin Zayed bin Sultan Al Nahyan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1608, "end": 1632, "kind": "PERSON", "text": "Sabah Al-Khalid Al-Sabah", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1680, "end": 1711, "kind": "PERSON", "text": "Salem Mohammed Shafi Al-Dawsari", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1822, "end": 1864, "kind": "PERSON", "text": "Yasser Saeed Mosleh Abdulrahman Al-Qahtani", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 1966, "end": 2006, "kind": "PERSON", "text": "Mohamed Abdullaziz Al-Deayea Al-Shammari", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 2106, "end": 2147, "kind": "PERSON", "text": "Omar Abdulrahman Ahmed Al Raaki Al Amoudi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 2257, "end": 2285, "kind": "PERSON", "text": "Akram Hassan Afif Yahya Afif", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 2382, "end": 2412, "kind": "PERSON", "text": "Hassan Khalid Hassan Al-Haydos", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 2523, "end": 2544, "kind": "PERSON", "text": "Bader Ahmed al-Mutawa", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 2627, "end": 2668, "kind": "PERSON", "text": "Ali Ahmed Mabkhout Mohsen Imran Al Hajeri", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 2765, "end": 2815, "kind": "PERSON", "text": "Ismail Matar Ibrahim Khamis Al Mukhaini Al Junaibi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 2907, "end": 2926, "kind": "PERSON", "text": "Sayed Mohamed Adnan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3046, "end": 3073, "kind": "PERSON", "text": "Ali Abdullah Harib Al-Habsi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3170, "end": 3196, "kind": "PERSON", "text": "A'ala Ahmed Mohamed Hubail", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3287, "end": 3318, "kind": "PERSON", "text": "Fahad Mofarraj Hassan Al Hajeri", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3422, "end": 3453, "kind": "PERSON", "text": "Sami Abdullah Mohammed Al-Jaber", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3570, "end": 3590, "kind": "PERSON", "text": "Majed Ahmed Abdullah", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3702, "end": 3732, "kind": "PERSON", "text": "Firas Tariq Nasser Al-Buraikan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3831, "end": 3863, "kind": "PERSON", "text": "Mohammed Khalil Ibrahim Al-Owais", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 3979, "end": 4009, "kind": "PERSON", "text": "Saud Abdullah Salem Abdulhamid", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 4109, "end": 4149, "kind": "PERSON", "text": "Almoez Ali Zainalabedeen Mohamed Abdulla", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 4239, "end": 4278, "kind": "PERSON", "text": "Saad Abdullah Mohammed Ebrahim Al-Sheeb", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 4378, "end": 4411, "kind": "PERSON", "text": "Abdelkarim Hassan Al Haj Fadlalla", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 4510, "end": 4527, "kind": "PERSON", "text": "Khaled Al-Rashidi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 4613, "end": 4654, "kind": "PERSON", "text": "Mohamed Jasim Mohamed Ali Abdulla Marhoon", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 4745, "end": 4784, "kind": "PERSON", "text": "Sayed Dhiya Saeed Ebrahim Alawi Shubbar", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 4876, "end": 4913, "kind": "PERSON", "text": "Muhsen Saleh Abdullah Ali Al-Ghassani", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5002, "end": 5029, "kind": "PERSON", "text": "Salah Said Salim al-Yahyaei", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5137, "end": 5167, "kind": "PERSON", "text": "Ali Sulaiman Rashid Al-Busaidi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5274, "end": 5311, "kind": "PERSON", "text": "Abdullah Fawaz Afrah Bait Abdulghafur", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5416, "end": 5454, "kind": "PERSON", "text": "Mahdi Abduljabbar Mahdi Darwish Hassan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5544, "end": 5573, "kind": "PERSON", "text": "Faiz Issa-Khadoom Al-Rushaidi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5651, "end": 5689, "kind": "PERSON", "text": "Ahmed Khalil Sebait Mubarak Al-Junaibi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5773, "end": 5820, "kind": "PERSON", "text": "Khalfan Mubarak Khalfan Obaid Alrizzi Al Shamsi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 5896, "end": 5932, "kind": "PERSON", "text": "Hazzaa Ali Abdan Khalfan Al Mansoori", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6018, "end": 6039, "kind": "PERSON", "text": "Sultan Saif Al Neyadi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6124, "end": 6140, "kind": "PERSON", "text": "Rayyanah Barnawi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6219, "end": 6247, "kind": "PERSON", "text": "Yasir bin Othman Al-Rumayyan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6355, "end": 6393, "kind": "PERSON", "text": "Lubna bint Khalid bin Sultan Al Qasimi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6486, "end": 6511, "kind": "PERSON", "text": "Yousef Nasser Al-Sulaiman", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6615, "end": 6643, "kind": "PERSON", "text": "Eid Nasser Dgheim Al-Rashidi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6758, "end": 6786, "kind": "PERSON", "text": "Bandar Al Salamah Al Mutairi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6901, "end": 6929, "kind": "PERSON", "text": "Nawaf Shaker Fayrouz Al-Abed", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 6996, "end": 7031, "kind": "PERSON", "text": "Taiseer Jaber Abdulmohsen Al-Jassim", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7110, "end": 7125, "kind": "PERSON", "text": "Boualem Khoukhi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7240, "end": 7253, "kind": "PERSON", "text": "Karim Boudiaf", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7359, "end": 7385, "kind": "PERSON", "text": "Tarek Salman Suleiman Odeh", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7485, "end": 7514, "kind": "PERSON", "text": "Ahmad Nawaf Al-Ahmad Al-Sabah", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7616, "end": 7651, "kind": "PERSON", "text": "Ahmad Al-Abdullah Al-Ahmad Al-Sabah", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7760, "end": 7787, "kind": "PERSON", "text": "Nasser bin Hamad Al Khalifa", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7878, "end": 7903, "kind": "PERSON", "text": "Qasim Said Sanjoor Hardan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 7971, "end": 8001, "kind": "PERSON", "text": "Ali Jaafar Mohamed Ahmed Madan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8087, "end": 8134, "kind": "PERSON", "text": "Abdulwahab Abdelrahman Hedaib Isa Ali Al-Malood", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8180, "end": 8211, "kind": "PERSON", "text": "Ahmed Mubarak Obaid al-Mahaijri", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8300, "end": 8337, "kind": "PERSON", "text": "Raed Ibrahim Saleh Haikal Al-Mukhaini", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8407, "end": 8440, "kind": "PERSON", "text": "Abdulaziz Hatem Mohammed Abdullah", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8541, "end": 8555, "kind": "PERSON", "text": "Hamad Al-Harbi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8683, "end": 8705, "kind": "PERSON", "text": "Nawaf Khaled Al Khaldi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8788, "end": 8809, "kind": "PERSON", "text": "Abdul Majeed Abdullah", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 8912, "end": 8947, "kind": "PERSON", "text": "Ahlam bint Ali bin Hazeem Al Shamsi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9030, "end": 9047, "kind": "PERSON", "text": "Hussain Al Jassmi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9141, "end": 9157, "kind": "PERSON", "text": "Fahad Al Kubaisi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9234, "end": 9260, "kind": "PERSON", "text": "Nawal Thaher Habib Al-Zaid", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9350, "end": 9370, "kind": "PERSON", "text": "Abdallah Alruwaished", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9432, "end": 9452, "kind": "PERSON", "text": "Mohammed Al-Musalami", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9537, "end": 9568, "kind": "PERSON", "text": "Jameel Saleem Jameel Al-Yahmadi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9679, "end": 9717, "kind": "PERSON", "text": "Abdulla Yusuf Abdulrahim Mohamed Helal", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9819, "end": 9859, "kind": "PERSON", "text": "Kamil Hasan Abdulla Ahmed Hasan Al-Aswad", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 9942, "end": 9978, "kind": "PERSON", "text": "Sayed Mahdi Baqer Jaafar Mahdi Naser", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10060, "end": 10091, "kind": "PERSON", "text": "Ismail Abdullatif Ismail Hassan", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10195, "end": 10230, "kind": "PERSON", "text": "Waleed Mohamed Abdulla Ali Al Hayam", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10312, "end": 10337, "kind": "PERSON", "text": "Harib Jamil Zaid Al-Saadi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10448, "end": 10483, "kind": "PERSON", "text": "Walid Abbas Murad Yousuf Al-Balushi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10589, "end": 10632, "kind": "PERSON", "text": "Khalid Eisa Mohammed Bilal Saeed Al Mesmari", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10734, "end": 10771, "kind": "PERSON", "text": "Bandar Mohammed Saeed Saleh Al-Ahbabi", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10842, "end": 10870, "kind": "PERSON", "text": "Abdullah Ibrahim Yahya Otayf", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 10949, "end": 10982, "kind": "PERSON", "text": "Salman Mohammed Mohammed Al-Faraj", "confidence_floor": 0.85}
+{"file": "bulk_person_en.txt", "start": 11083, "end": 11122, "kind": "PERSON", "text": "Nasser Salih Nasser Abdullah al-Attiyah", "confidence_floor": 0.85}

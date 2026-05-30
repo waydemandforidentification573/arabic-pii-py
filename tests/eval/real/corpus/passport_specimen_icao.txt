@@ -1,0 +1,18 @@
+Travel Document Specimen — ICAO Doc 9303 worked example
+نموذج وثيقة سفر — المثال المعتمد في وثيقة الإيكاو 9303
+======================================================================
+The ICAO Doc 9303 standard publishes a specimen passport for the
+fictional state of Utopia (country code UTO) to illustrate the layout
+of a machine-readable travel document.
+
+Holder (VIZ): ERIKSSON, ANNA MARIA
+Nationality: Utopia (UTO)
+Date of birth: 12 AUG 1974
+Document number: L898902C3
+
+Machine-readable zone (MRZ):
+P<UTOERIKSSON<<ANNA<MARIA<<<<<<<<<<<<<<<<<<<
+L898902C36UTO7408122F3404159ZE184226B<<<<<16
+
+This specimen is published purely as documentation; the holder is a
+fictional person and the document number is an illustrative example.

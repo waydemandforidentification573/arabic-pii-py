@@ -1,0 +1,149 @@
+{"file": "bulk_org_ksa.txt", "start": 13, "end": 42, "kind": "ORGANIZATION", "text": "أرامكو السعودية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 131, "end": 194, "kind": "ORGANIZATION", "text": "الشركة السعودية للصناعات الأساسية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 283, "end": 325, "kind": "ORGANIZATION", "text": "شركة الكابلات السعودية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 414, "end": 437, "kind": "ORGANIZATION", "text": "مصرف الإنماء", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 526, "end": 539, "kind": "ORGANIZATION", "text": "بنك ساب", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 628, "end": 647, "kind": "ORGANIZATION", "text": "بنك البلاد", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 736, "end": 764, "kind": "ORGANIZATION", "text": "شركة أسمنت تبوك", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 853, "end": 893, "kind": "ORGANIZATION", "text": "شركة الأسمنت السعودية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 982, "end": 1014, "kind": "ORGANIZATION", "text": "شركة إسمنت القصيم", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 1103, "end": 1133, "kind": "ORGANIZATION", "text": "شركة إسمنت الجوف", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 1222, "end": 1271, "kind": "ORGANIZATION", "text": "شركة أسمنت المنطقة الشرقية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 1360, "end": 1411, "kind": "ORGANIZATION", "text": "شركة أسمنت المنطقة الجنوبية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 1500, "end": 1534, "kind": "ORGANIZATION", "text": "شركة الحفر العربية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 1623, "end": 1661, "kind": "ORGANIZATION", "text": "شركة التصنيع الوطنية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 1750, "end": 1794, "kind": "ORGANIZATION", "text": "الشركة العربية للأنابيب", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 1883, "end": 1933, "kind": "ORGANIZATION", "text": "الشركة الكيميائية السعودية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 2022, "end": 2078, "kind": "ORGANIZATION", "text": "الشركة الوطنية للبتروكيماويات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 2167, "end": 2225, "kind": "ORGANIZATION", "text": "الشركة المتقدمة للبتروكيماويات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 2314, "end": 2377, "kind": "ORGANIZATION", "text": "شركة رابغ للتكرير والبتروكيماويات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 2466, "end": 2527, "kind": "ORGANIZATION", "text": "شركة ينبع الوطنية للبتروكيماويات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 2616, "end": 2685, "kind": "ORGANIZATION", "text": "شركة الصحراء العالمية للبتروكيماويات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 2774, "end": 2842, "kind": "ORGANIZATION", "text": "الشركة الوطنية السعودية للنقل البحري", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 2931, "end": 3005, "kind": "ORGANIZATION", "text": "شركة الدريس للخدمات البترولية والنقليات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 3094, "end": 3147, "kind": "ORGANIZATION", "text": "الشركة السعودية لصناعة الورق", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 3236, "end": 3291, "kind": "ORGANIZATION", "text": "شركة المصافي العربية السعودية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 3380, "end": 3437, "kind": "ORGANIZATION", "text": "شركة الصناعات الزجاجية الوطنية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 3526, "end": 3585, "kind": "ORGANIZATION", "text": "شركة البابطين للطاقة والاتصالات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 3674, "end": 3739, "kind": "ORGANIZATION", "text": "المجموعة السعودية للأبحاث والإعلام", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 3828, "end": 3895, "kind": "ORGANIZATION", "text": "المجموعة السعودية للاستثمار الصناعي", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 3984, "end": 4042, "kind": "ORGANIZATION", "text": "شركة بحر العرب لأنظمة المعلومات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 4131, "end": 4191, "kind": "ORGANIZATION", "text": "شركة تصنيع مواد التعبئة والتغليف", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 4280, "end": 4344, "kind": "ORGANIZATION", "text": "الشركة الوطنية لتصنيع وسبك المعادن", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 4433, "end": 4499, "kind": "ORGANIZATION", "text": "شركة أنابيب الشرق المتكاملة للصناعة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 4588, "end": 4657, "kind": "ORGANIZATION", "text": "شركة الشرق الأوسط لصناعة وإنتاج الورق", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 4746, "end": 4789, "kind": "ORGANIZATION", "text": "شركة دله للخدمات الصحية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 4878, "end": 4923, "kind": "ORGANIZATION", "text": "شركة ذيب لتأجير السيارات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5012, "end": 5059, "kind": "ORGANIZATION", "text": "شركة ثمار التنمية القابضة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5148, "end": 5185, "kind": "ORGANIZATION", "text": "شركة بن داود القابضة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5274, "end": 5310, "kind": "ORGANIZATION", "text": "شركة ريدان الغذائية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5399, "end": 5438, "kind": "ORGANIZATION", "text": "أسواق عبد الله العثيم", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5527, "end": 5546, "kind": "ORGANIZATION", "text": "مكتبة جرير", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5635, "end": 5658, "kind": "ORGANIZATION", "text": "حلواني إخوان", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5747, "end": 5772, "kind": "ORGANIZATION", "text": "الخزف السعودي", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 5861, "end": 5924, "kind": "ORGANIZATION", "text": "شركة فواز عبد العزيز الحكير وشركاه", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 6013, "end": 6090, "kind": "ORGANIZATION", "text": "مجموعة عبد المحسن الحكير للسياحة والتنمية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 6179, "end": 6260, "kind": "ORGANIZATION", "text": "مجموعة الدكتور سليمان الحبيب للخدمات الطبية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 6349, "end": 6432, "kind": "ORGANIZATION", "text": "شركة أليانز السعودي الفرنسي للتأمين التعاوني", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 6521, "end": 6620, "kind": "ORGANIZATION", "text": "الشركة السعودية للصناعات الدوائية والمستلزمات الطبية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 6709, "end": 6784, "kind": "ORGANIZATION", "text": "شركة سند للتأمين وإعادة التأمين التعاوني", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 6873, "end": 6949, "kind": "ORGANIZATION", "text": "الشركة السعودية لإنتاج الأنابيب الفخارية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7038, "end": 7110, "kind": "ORGANIZATION", "text": "شركة باتك للاستثمار والأعمال اللوجستية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7199, "end": 7230, "kind": "ORGANIZATION", "text": "إس تي سي السعودية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7306, "end": 7319, "kind": "ORGANIZATION", "text": "Al Rajhi Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7393, "end": 7412, "kind": "ORGANIZATION", "text": "Saudi National Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7486, "end": 7507, "kind": "ORGANIZATION", "text": "Saudi Telecom Company", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7581, "end": 7593, "kind": "ORGANIZATION", "text": "Saudi Aramco", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7667, "end": 7701, "kind": "ORGANIZATION", "text": "Saudi Basic Industries Corporation", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7775, "end": 7785, "kind": "ORGANIZATION", "text": "Riyad Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7859, "end": 7870, "kind": "ORGANIZATION", "text": "Alinma Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 7944, "end": 7962, "kind": "ORGANIZATION", "text": "Saudi British Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8036, "end": 8060, "kind": "ORGANIZATION", "text": "Saudi Arabian Mining Co.", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8134, "end": 8160, "kind": "ORGANIZATION", "text": "Abdullah Al-Othaim Markets", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8221, "end": 8233, "kind": "ORGANIZATION", "text": "Alawwal Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8314, "end": 8362, "kind": "ORGANIZATION", "text": "Aldrees Petroleum and Transport Services Company", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8423, "end": 8430, "kind": "ORGANIZATION", "text": "Almarai", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8491, "end": 8509, "kind": "ORGANIZATION", "text": "Arab National Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8570, "end": 8582, "kind": "ORGANIZATION", "text": "Bank Albilad", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8643, "end": 8662, "kind": "ORGANIZATION", "text": "Banque Saudi Fransi", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8723, "end": 8767, "kind": "ORGANIZATION", "text": "Dar Al Arkan Real Estate Development Company", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8828, "end": 8851, "kind": "ORGANIZATION", "text": "Kingdom Holding Company", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8912, "end": 8921, "kind": "ORGANIZATION", "text": "MBC Group", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 8982, "end": 8988, "kind": "ORGANIZATION", "text": "Mobily", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9049, "end": 9054, "kind": "ORGANIZATION", "text": "Nadec", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9115, "end": 9127, "kind": "ORGANIZATION", "text": "Petro Rabigh", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9188, "end": 9204, "kind": "ORGANIZATION", "text": "Saudi Awwal Bank", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9265, "end": 9298, "kind": "ORGANIZATION", "text": "Saudi Advanced Industries Company", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9359, "end": 9371, "kind": "ORGANIZATION", "text": "Saudi Energy", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9432, "end": 9439, "kind": "ORGANIZATION", "text": "Sipchem", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9500, "end": 9532, "kind": "ORGANIZATION", "text": "Saudi Manpower Solutions Company", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9593, "end": 9623, "kind": "ORGANIZATION", "text": "Saudi Research and Media Group", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9684, "end": 9720, "kind": "ORGANIZATION", "text": "Yanbu National Petrochemical Company", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9781, "end": 9798, "kind": "ORGANIZATION", "text": "Zain Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9859, "end": 9875, "kind": "ORGANIZATION", "text": "Zamil Industrial", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 9936, "end": 9966, "kind": "ORGANIZATION", "text": "جامعة الملك سعود", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 10109, "end": 10150, "kind": "ORGANIZATION", "text": "جامعة الملك عبد العزيز", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 10293, "end": 10353, "kind": "ORGANIZATION", "text": "جامعة الملك فهد للبترول والمعادن", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 10496, "end": 10561, "kind": "ORGANIZATION", "text": "جامعة الإمام محمد بن سعود الإسلامية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 10704, "end": 10765, "kind": "ORGANIZATION", "text": "جامعة الأميرة نورة بنت عبد الرحمن", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 10908, "end": 10975, "kind": "ORGANIZATION", "text": "جامعة الملك عبد الله للعلوم والتقنية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 11118, "end": 11199, "kind": "ORGANIZATION", "text": "جامعة الملك سعود بن عبد العزيز للعلوم الصحية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 11342, "end": 11399, "kind": "ORGANIZATION", "text": "جامعة الإمام عبد الرحمن بن فيصل", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 11542, "end": 11607, "kind": "ORGANIZATION", "text": "الجامعة الإسلامية بالمدينة المنورة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 11750, "end": 11776, "kind": "ORGANIZATION", "text": "جامعة أم القرى", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 11919, "end": 11942, "kind": "ORGANIZATION", "text": "جامعة القصيم", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 12085, "end": 12104, "kind": "ORGANIZATION", "text": "جامعة طيبة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 12247, "end": 12268, "kind": "ORGANIZATION", "text": "جامعة جازان", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 12411, "end": 12428, "kind": "ORGANIZATION", "text": "جامعة جدة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 12571, "end": 12596, "kind": "ORGANIZATION", "text": "جامعة المجمعة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 12739, "end": 12779, "kind": "ORGANIZATION", "text": "جامعة الحدود الشمالية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 12922, "end": 12956, "kind": "ORGANIZATION", "text": "جامعة الأمير سلطان", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 13099, "end": 13143, "kind": "ORGANIZATION", "text": "جامعة الأمير محمد بن فهد", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 13286, "end": 13318, "kind": "ORGANIZATION", "text": "جامعة عفت الأهلية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 13461, "end": 13514, "kind": "ORGANIZATION", "text": "جامعة سليمان الراجحي الأهلية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 13657, "end": 13711, "kind": "ORGANIZATION", "text": "الجامعة السعودية الإلكترونية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 13854, "end": 13916, "kind": "ORGANIZATION", "text": "جامعة نايف العربية للعلوم الأمنية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14059, "end": 14079, "kind": "ORGANIZATION", "text": "King Saud University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14157, "end": 14182, "kind": "ORGANIZATION", "text": "King Abdulaziz University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14260, "end": 14306, "kind": "ORGANIZATION", "text": "King Fahd University of Petroleum and Minerals", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14384, "end": 14406, "kind": "ORGANIZATION", "text": "King Faisal University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14484, "end": 14506, "kind": "ORGANIZATION", "text": "King Khalid University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14584, "end": 14625, "kind": "ORGANIZATION", "text": "Imam Mohammad Ibn Saud Islamic University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14703, "end": 14747, "kind": "ORGANIZATION", "text": "Princess Nourah Bint Abdul Rahman University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14825, "end": 14847, "kind": "ORGANIZATION", "text": "Umm al-Qura University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 14925, "end": 14963, "kind": "ORGANIZATION", "text": "Imam Abdulrahman Bin Faisal University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15041, "end": 15069, "kind": "ORGANIZATION", "text": "Islamic University of Medina", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15147, "end": 15164, "kind": "ORGANIZATION", "text": "Qassim University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15242, "end": 15259, "kind": "ORGANIZATION", "text": "Taibah University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15337, "end": 15353, "kind": "ORGANIZATION", "text": "Jazan University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15431, "end": 15450, "kind": "ORGANIZATION", "text": "Alfaisal University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15528, "end": 15544, "kind": "ORGANIZATION", "text": "Effat University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15622, "end": 15646, "kind": "ORGANIZATION", "text": "Prince Sultan University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15724, "end": 15751, "kind": "ORGANIZATION", "text": "Saudi Electronic University", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15829, "end": 15849, "kind": "ORGANIZATION", "text": "Dar Al-Hekma College", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 15927, "end": 15964, "kind": "ORGANIZATION", "text": "University of Business and Technology", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 16042, "end": 16109, "kind": "ORGANIZATION", "text": "Prince Mohammad bin Salman College of Business and Entrepreneurship", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 16187, "end": 16212, "kind": "ORGANIZATION", "text": "وزارة المالية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 16350, "end": 16371, "kind": "ORGANIZATION", "text": "وزارة الصحة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 16509, "end": 16532, "kind": "ORGANIZATION", "text": "وزارة الطاقة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 16670, "end": 16695, "kind": "ORGANIZATION", "text": "وزارة التجارة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 16833, "end": 16860, "kind": "ORGANIZATION", "text": "وزارة الخارجية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 16998, "end": 17025, "kind": "ORGANIZATION", "text": "وزارة الداخلية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 17163, "end": 17184, "kind": "ORGANIZATION", "text": "وزارة العدل", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 17322, "end": 17351, "kind": "ORGANIZATION", "text": "وزارة الاستثمار", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 17489, "end": 17523, "kind": "ORGANIZATION", "text": "وزارة الحج والعمرة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 17661, "end": 17718, "kind": "ORGANIZATION", "text": "وزارة الصناعة والثروة المعدنية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 17856, "end": 17934, "kind": "ORGANIZATION", "text": "وزارة الموارد البشرية والتنمية الاجتماعية", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18072, "end": 18133, "kind": "ORGANIZATION", "text": "وزارة الاتصالات وتقنية المعلومات", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18271, "end": 18326, "kind": "ORGANIZATION", "text": "وزارة البيئة والمياه والزراعة", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18468, "end": 18487, "kind": "ORGANIZATION", "text": "Ministry of Finance", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18570, "end": 18588, "kind": "ORGANIZATION", "text": "Ministry of Health", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18671, "end": 18689, "kind": "ORGANIZATION", "text": "Ministry of Energy", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18772, "end": 18799, "kind": "ORGANIZATION", "text": "Ministry of Foreign Affairs", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18882, "end": 18902, "kind": "ORGANIZATION", "text": "Ministry of Interior", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 18985, "end": 19004, "kind": "ORGANIZATION", "text": "Ministry of Justice", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 19087, "end": 19108, "kind": "ORGANIZATION", "text": "Ministry of Education", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 19191, "end": 19211, "kind": "ORGANIZATION", "text": "Ministry of Commerce", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 19294, "end": 19320, "kind": "ORGANIZATION", "text": "Ministry of Hajj and Umrah", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 19403, "end": 19422, "kind": "ORGANIZATION", "text": "Ministry of Tourism", "confidence_floor": 0.85}
+{"file": "bulk_org_ksa.txt", "start": 19505, "end": 19527, "kind": "ORGANIZATION", "text": "Ministry of Investment", "confidence_floor": 0.85}

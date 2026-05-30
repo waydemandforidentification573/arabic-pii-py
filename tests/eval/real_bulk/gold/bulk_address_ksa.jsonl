@@ -1,0 +1,60 @@
+{"file": "bulk_address_ksa.txt", "start": 84, "end": 122, "kind": "ADDRESS", "text": "P.O. Box 800\nRiyadh 11421\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 139, "end": 227, "kind": "ADDRESS", "text": "P.O. Box: 5064\nKing Fahd University of Petroleum and Minerals\nDhahran 31261\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 244, "end": 341, "kind": "ADDRESS", "text": "4700 King Abdullah University of Science and Technology\nThuwal 23955-6900\nKingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 445, "end": 501, "kind": "ADDRESS", "text": "P. O. Box : 10219\nRiyadh : 11433\nKingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 597, "end": 649, "kind": "ADDRESS", "text": "Riyadh 11451, P.O. Box 2456, Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 757, "end": 816, "kind": "ADDRESS", "text": "ص. ب: 70566\nالرمز البريدي: الرياض 11577", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 864, "end": 908, "kind": "ADDRESS", "text": "ص ب: 2458 الرمز البريدي: 11451", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1086, "end": 1125, "kind": "ADDRESS", "text": "PO Box 5101, Riyadh 11422, Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1181, "end": 1220, "kind": "ADDRESS", "text": "P.O.Box 87912\nRiyadh 11652\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1246, "end": 1333, "kind": "ADDRESS", "text": "King Saud Road, Regional Building P.O. Box 22216, 11495 Riyadh, Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1385, "end": 1436, "kind": "ADDRESS", "text": "P.O. BOX 68861 Riyadh 11537 Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1453, "end": 1555, "kind": "ADDRESS", "text": "Diplomatic Quarter\nAbdullah Ibn Hudhafah As Sahmi St.No:8606\nP.O.Box: 3732,\nRiyadh, 12523\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1591, "end": 1658, "kind": "ADDRESS", "text": "Diplomatic quarter Main Road 2 Lot n° A2\n11693 Riyadh\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1677, "end": 1717, "kind": "ADDRESS", "text": "P.O. Box 94382\nRiyadh 11693\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1771, "end": 1833, "kind": "ADDRESS", "text": "Abdullah Hizaf Asehmi Street\n(Diplomatic Quarter)\n11693 Riyadh", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1850, "end": 1888, "kind": "ADDRESS", "text": "PO Box 94351\n11693 Riyadh\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1915, "end": 1951, "kind": "ADDRESS", "text": "PO Box 393\n21411 Jeddah\nSaudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 1968, "end": 2099, "kind": "ADDRESS", "text": "Kingdom of Saudi Arabia - Riyadh\nKing Saud University\nCollege of Sciences\nBiochemistry Department\nP.O. Box: 2455\nPostal code: 11451", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2167, "end": 2200, "kind": "ADDRESS", "text": "P.O. Box 90950, Riyadh 11623, KSA", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2201, "end": 2302, "kind": "ADDRESS", "text": "College of Science\nQassim University\nAlmulaydah, Buraydah,\nP.O. Box 6700,\nQassim 51452,\nSaudi Arabia.", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2330, "end": 2361, "kind": "ADDRESS", "text": "P.O. Box. 52571 Qassim Buraydah", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2489, "end": 2515, "kind": "ADDRESS", "text": "ص.ب 80200، جدة 21589", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2607, "end": 2629, "kind": "ADDRESS", "text": "ص ب 266 الرياض", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2726, "end": 2750, "kind": "ADDRESS", "text": "ص.ب 715، مكة 21955", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2838, "end": 2859, "kind": "ADDRESS", "text": "ص.ب 3236، أبها", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 2896, "end": 2950, "kind": "ADDRESS", "text": "طريق الامير نايف بن عبدالعزيز", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3121, "end": 3147, "kind": "ADDRESS", "text": "ص.ب 380، الأحساء", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3266, "end": 3292, "kind": "ADDRESS", "text": "45142 ص.ب 114 جازان", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3329, "end": 3346, "kind": "ADDRESS", "text": "طريق ضباء", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3449, "end": 3491, "kind": "ADDRESS", "text": "P.O. Box 94001, Riyadh 11693, Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3536, "end": 3599, "kind": "ADDRESS", "text": "Diplomatic Quarter, P.O. Box 94321, Riyadh, 11693, Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3636, "end": 3737, "kind": "ADDRESS", "text": "Tayma Street Lenah Residential Area Diplomatic Quarter Building number: 3743 Zip: 12513 - 8384 Riyadh", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3765, "end": 3869, "kind": "ADDRESS", "text": "Diplomatic Quarter (As Safarat)\n3639 Amr Aldamri St.\nP.O. Box 94389\nRiyad 11693, Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 3899, "end": 4009, "kind": "ADDRESS", "text": "Diplomatic Quarters P.O.Box. 94007 Riyadh 11693\nBuilding Number : 8224, Zip code : 12521, Additional No : 3764", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4049, "end": 4073, "kind": "ADDRESS", "text": "Asfan Road, Jeddah 23890", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4156, "end": 4191, "kind": "ADDRESS", "text": "طريق الملك عبد الله", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4253, "end": 4442, "kind": "ADDRESS", "text": "Riyad Bank Tower\nKing Abdullah Financial District (KAFD)\nFinancial Boulevard - Al Aqeeq District - Building No. 3128\nPostal Code 13519 – Secondary No. 6671\nRiyadh, Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4486, "end": 4545, "kind": "ADDRESS", "text": "9033 King Fahad Road | Olaya | Unit 8 | Riyadh 12214 - 2370", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4572, "end": 4628, "kind": "ADDRESS", "text": "Riyadh, Al Malaz, Steen Street\nP.O. Box 140\nRiyadh 11411", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4662, "end": 4796, "kind": "ADDRESS", "text": "كلية الهندسة – مركز الإبداع والابتكار الطلابي - ص. ب 800 – الرمز البريدي 11421", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4857, "end": 4879, "kind": "ADDRESS", "text": "PO 57448, Riyadh 11574", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 4880, "end": 4975, "kind": "ADDRESS", "text": "College of Computer and Information Sciences\nP.O.Box 51178\nRiyadh 11543\nKingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 5057, "end": 5196, "kind": "ADDRESS", "text": "ص. ب. :3646\nالمدينة : الرياض\nالرمز البريدي : 11481\nالدولة : المملكة العربية السعودية", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 5299, "end": 5334, "kind": "ADDRESS", "text": "طريق أبي بكر الصديق", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 5474, "end": 5530, "kind": "ADDRESS", "text": "حي النرجس، شمال العاصمة الرياض", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 5599, "end": 5689, "kind": "ADDRESS", "text": "4019 Arafat Al-Hamra Unit No: 11 Jeddah 23324-7910 Saudi Arabia - P.O. Box 70 Jeddah 21411", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 5744, "end": 5784, "kind": "ADDRESS", "text": "P.O. Box 126, Jeddah 21411, Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 5836, "end": 5951, "kind": "ADDRESS", "text": "Buildung No. 60, Marwan bin Abdulrahman Street (152), off Ali Al-Shaibi-Street, Al Muhammadeyyah District 5, Jeddah", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 5994, "end": 6057, "kind": "ADDRESS", "text": "6702 Prince Majed-Al Faiha, Unit No.2 , JEDDAH 22246 - 4872,KSA", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6087, "end": 6138, "kind": "ADDRESS", "text": "P.O. Box 50927\nRiyadh 11533\nKingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6172, "end": 6244, "kind": "ADDRESS", "text": "Parcel 1.17\nFinancial Blvd, Al Aqiq\nRiyadh 13519\nKingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6271, "end": 6350, "kind": "ADDRESS", "text": "Qasr Khuzam St.\nKilo. 2\nOld Mecca Road.\nP.O.BOX 34689\nJeddah 21478 Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6389, "end": 6490, "kind": "ADDRESS", "text": "Mobily C1 Head Office\nVendor Relations Department\nP.O. Box 9979, Riyadh 11423\nKingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6526, "end": 6555, "kind": "ADDRESS", "text": "P O Box# : 22955 Riyadh 14416", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6619, "end": 6688, "kind": "ADDRESS", "text": "8th floor Al-Faisaliah Tower P.O.Box 51907, Riyadh 11553 Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6738, "end": 6765, "kind": "ADDRESS", "text": "P.O. Box 56006 Riyadh 11554", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6805, "end": 6957, "kind": "ADDRESS", "text": "The Saudi National Bank Tower\nKing Fahd Road 3208 - Al Aqeeq District Unit No.778\nZip Code 13519 – Additional No. 6676\nRiyadh, Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 6958, "end": 7065, "kind": "ADDRESS", "text": "Islamic Economic Institute, King Abdul Aziz University P.O. Box 80214, Jeddah 21589 Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 7093, "end": 7170, "kind": "ADDRESS", "text": "College of Engineering - P.O. Box 80204 Jeddah 21589, Kingdom of Saudi Arabia", "confidence_floor": 0.85}
+{"file": "bulk_address_ksa.txt", "start": 7171, "end": 7277, "kind": "ADDRESS", "text": "Faculty of Economics and Administration\nKing Abdulaziz University\nP.O. Box 80201\nJeddah 21589\nSaudi Arabia", "confidence_floor": 0.85}

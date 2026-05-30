@@ -1,0 +1,32 @@
+{"file": "bulk_iban_kw.txt", "start": 77, "end": 107, "kind": "IBAN", "text": "KW02NBOK0000000000002003727382", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 187, "end": 217, "kind": "IBAN", "text": "KW03NBOK0000000000001000228123", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 263, "end": 293, "kind": "IBAN", "text": "KW81CBKU0000000000001234560101", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 457, "end": 487, "kind": "IBAN", "text": "KW97NBOK0000000000002018860873", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 550, "end": 580, "kind": "IBAN", "text": "KW63KFHO0000000000011010689509", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 720, "end": 750, "kind": "IBAN", "text": "KW16KFHO0000000000011140001055", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 893, "end": 930, "kind": "IBAN", "text": "KW43 NBOK 0000 0000 0000 1000 3752 31", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 1081, "end": 1118, "kind": "IBAN", "text": "KW37 COMB 0000 0101 6044 2100 4140 16", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 1248, "end": 1285, "kind": "IBAN", "text": "KW93 GULB 0000 0000 0000 0005 7867 01", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 1432, "end": 1469, "kind": "IBAN", "text": "KW95 KFHO 0000 0000 0001 1010 0001 36", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 1616, "end": 1653, "kind": "IBAN", "text": "KW32 BBKU 0000 0000 0012 0000 0000 69", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 1781, "end": 1818, "kind": "IBAN", "text": "KW59 BRGN 0000 0000 0000 2065 0260 69", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 1967, "end": 2004, "kind": "IBAN", "text": "KW56 ABKK 0000 0000 0060 0033 8030 01", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 2151, "end": 2188, "kind": "IBAN", "text": "KW42 BKME 0000 0000 0000 0011 5098 86", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 2318, "end": 2355, "kind": "IBAN", "text": "KW10 BBYN 0000 0000 0000 0004 4000 01", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 2498, "end": 2535, "kind": "IBAN", "text": "KW59 KWIB 0000 0000 0001 1010 0733 54", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 2693, "end": 2730, "kind": "IBAN", "text": "KW75 NBAD 0001 0000 0000 6200 0082 17", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 2875, "end": 2912, "kind": "IBAN", "text": "KW97 DOHB 0053 2002 0114 0200 0100 00", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 3038, "end": 3075, "kind": "IBAN", "text": "KW80 CITI 0000 0000 0000 0004 1470 22", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 3209, "end": 3246, "kind": "IBAN", "text": "KW22 RJHI 0000 0860 0037 0010 4000 06", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 3372, "end": 3409, "kind": "IBAN", "text": "KW33 WRBA 0000 0000 0000 1001 8880 18", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 3561, "end": 3598, "kind": "IBAN", "text": "KW76 QNBA 0000 0000 0240 3000 1300 01", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 3737, "end": 3767, "kind": "IBAN", "text": "KW04NBOK0000000000001000497280", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 3914, "end": 3944, "kind": "IBAN", "text": "KW15COMB0000010282183100414014", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 4070, "end": 4100, "kind": "IBAN", "text": "KW42GULB0000000000000006624244", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 4245, "end": 4275, "kind": "IBAN", "text": "KW70ABKK0000000000600076397001", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 4414, "end": 4444, "kind": "IBAN", "text": "KW07KWIB0000000000011010060031", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 4568, "end": 4598, "kind": "IBAN", "text": "KW58BRGN0000000000002060005949", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 4724, "end": 4754, "kind": "IBAN", "text": "KW65BBYN0000000000000103598001", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 4897, "end": 4927, "kind": "IBAN", "text": "KW92KFHO0000000000011010058002", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 5070, "end": 5100, "kind": "IBAN", "text": "KW59KFHO0000000000011010074504", "confidence_floor": 0.85}
+{"file": "bulk_iban_kw.txt", "start": 5243, "end": 5273, "kind": "IBAN", "text": "KW17KFHO0000000000011010411268", "confidence_floor": 0.85}

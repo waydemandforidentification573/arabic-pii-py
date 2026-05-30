@@ -1,0 +1,4 @@
+{"file": "zatca_tax_invoice.txt", "start": 375, "end": 387, "kind": "ORGANIZATION", "text": "Bobs Records", "confidence_floor": 0.85}
+{"file": "zatca_tax_invoice.txt", "start": 427, "end": 442, "kind": "TAX_NUMBER", "text": "310122393500003", "confidence_floor": 0.85}
+{"file": "zatca_tax_invoice.txt", "start": 645, "end": 666, "kind": "ORGANIZATION", "text": "Bobs Basement Records", "confidence_floor": 0.85}
+{"file": "zatca_tax_invoice.txt", "start": 692, "end": 707, "kind": "TAX_NUMBER", "text": "100025906700003", "confidence_floor": 0.85}

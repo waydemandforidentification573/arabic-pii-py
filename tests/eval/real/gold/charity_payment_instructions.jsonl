@@ -1,0 +1,5 @@
+{"file": "charity_payment_instructions.txt", "start": 49, "end": 62, "kind": "ORGANIZATION", "text": "Qatar Charity", "confidence_floor": 0.85}
+{"file": "charity_payment_instructions.txt", "start": 465, "end": 494, "kind": "IBAN", "text": "QA92QIIB000000001111170088070", "confidence_floor": 0.85}
+{"file": "charity_payment_instructions.txt", "start": 560, "end": 589, "kind": "IBAN", "text": "QA37QNBA000000000786746207060", "confidence_floor": 0.85}
+{"file": "charity_payment_instructions.txt", "start": 652, "end": 681, "kind": "IBAN", "text": "QA03QISB000000000108181000018", "confidence_floor": 0.85}
+{"file": "charity_payment_instructions.txt", "start": 735, "end": 764, "kind": "IBAN", "text": "QA16BRWA000000000200000007515", "confidence_floor": 0.85}

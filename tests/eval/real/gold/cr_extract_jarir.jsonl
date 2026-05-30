@@ -1,0 +1,4 @@
+{"file": "cr_extract_jarir.txt", "start": 219, "end": 242, "kind": "ORGANIZATION", "text": "Jarir Marketing Company", "confidence_floor": 0.85}
+{"file": "cr_extract_jarir.txt", "start": 341, "end": 351, "kind": "COMMERCIAL_REGISTRATION", "text": "1010032264", "confidence_floor": 0.85}
+{"file": "cr_extract_jarir.txt", "start": 383, "end": 393, "kind": "COMMERCIAL_REGISTRATION", "text": "1010654213", "confidence_floor": 0.85}
+{"file": "cr_extract_jarir.txt", "start": 434, "end": 449, "kind": "TAX_NUMBER", "text": "300056289500003", "confidence_floor": 0.85}

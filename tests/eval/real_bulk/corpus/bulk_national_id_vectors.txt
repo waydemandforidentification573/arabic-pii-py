@@ -1,0 +1,22 @@
+Simple checksum validation: print(is_luhn("1101798278")) returns True for this 10-digit Saudi national ID test number.
+Valid example: isValidSaudiID('1010101010') returns true — a documented Saudi National ID test number.
+Valid example: isValidSaudiID('2020202020') returns true — a documented Saudi Iqama (resident ID) test number.
+Valid Saudi ID test example used in the README: isValidSaudiID("1000000008") returns true.
+On screen the Emirates ID should be displayed in full as 784-1945-1234567-0 using the XXX-XXXX-XXXXXXX-X format.
+In the above example, a person having his QID number as 28425001234 means he was born in 1985, is a French citizen (ISO code 250).
+is_valid_civil_id('286101901541') returns True — a Kuwait Civil ID test number with valid Mod-11 checksum.
+is_valid_civil_id('300092400929') returns True — a Kuwait Civil ID test number with valid Mod-11 checksum.
+is_valid_civil_id('282040701483') returns True — a Kuwait Civil ID test number with valid Mod-11 checksum.
+get_birthdate_from_civil_id('304022600325') yields 2004-02-26 for this valid Kuwait Civil ID test number.
+The Emirates ID 784-1984-1234567-1 is accepted as a valid UAE Emirates ID test number in format 784-YYYY-NNNNNNN-N.
+The Emirates ID 784-2000-9876543-2 is accepted as a valid UAE Emirates ID test number in format 784-YYYY-NNNNNNN-N.
+The Emirates ID 784-1800-1234567-1 is a boundary-year UAE Emirates ID test number in format 784-YYYY-NNNNNNN-N.
+The Emirates ID 784-2200-1234567-1 is a boundary-year UAE Emirates ID test number in format 784-YYYY-NNNNNNN-N.
+VALID_QA_IDS includes '30363412345', a Qatari National ID test number (century digit 3, ISO nationality code).
+VALID_QA_IDS includes '29984054321', a Qatari National ID test number (century digit 2, ISO nationality code).
+VALID_QA_IDS includes '29535600001', a Qatari National ID test number (century digit 2, ISO nationality code).
+IqamaValidator.validate("2172323137") expects true — a Saudi Iqama test number with valid Luhn checksum.
+IqamaValidator.validate("1046403927") expects true — a Saudi National ID test number with valid Luhn checksum.
+The Emirates ID number written in full looks like this: 784-2015-1234567-8, in the format 784-YYYY-XXXXXXX-X.
+Example format: 784-1985-1234567-1 — 784 is the UAE country code and the next four digits are the year of birth.
+For example, 28358607565 is your QID, meaning you were born in 1983 (283) and are from Pakistan (country code 586).

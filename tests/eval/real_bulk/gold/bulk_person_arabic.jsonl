@@ -1,0 +1,92 @@
+{"file": "bulk_person_arabic.txt", "start": 0, "end": 63, "kind": "PERSON", "text": "محمد بن سلمان بن عبد العزيز آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 200, "end": 311, "kind": "PERSON", "text": "تميم بن حمد بن خليفة بن حمد بن عبد الله بن جاسم بن محمد آل ثاني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 444, "end": 498, "kind": "PERSON", "text": "محمد بن زايد بن سلطان آل نهيان", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 681, "end": 740, "kind": "PERSON", "text": "صَبَاح الأَحمَد الجابر الصَّباح", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 900, "end": 947, "kind": "PERSON", "text": "مشعل الأحمد الجابر الصباح", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 1122, "end": 1174, "kind": "PERSON", "text": "هيثم بن طارق بن تيمور آل سعيد", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 1304, "end": 1360, "kind": "PERSON", "text": "خليفة بن زايد بن سلطان آل نهيان", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 1480, "end": 1554, "kind": "PERSON", "text": "سلمان بن عبد العزيز بن عبد الرحمن آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 1676, "end": 1728, "kind": "PERSON", "text": "محمد بن راشد بن سعيد آل مكتوم", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 1890, "end": 1924, "kind": "PERSON", "text": "ياسر سعيد القحطاني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 2010, "end": 2075, "kind": "PERSON", "text": "الوليد بن طلال بن عبد العزيز آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 2200, "end": 2255, "kind": "PERSON", "text": "لبنى بنت خالد بن سلطان القاسمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 2380, "end": 2426, "kind": "PERSON", "text": "محمد بن عبد الكريم العيسى", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 2614, "end": 2651, "kind": "PERSON", "text": "نورة بنت محمد الكعبي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 2794, "end": 2835, "kind": "PERSON", "text": "ريم يوسف مسعود الهاشمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 3030, "end": 3071, "kind": "PERSON", "text": "سالم محمد شافي الدوسري", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 3252, "end": 3282, "kind": "PERSON", "text": "فهد مساعد المولد", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 3462, "end": 3522, "kind": "PERSON", "text": "ياسر غرسان سعيد المحمدي الشهراني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 3710, "end": 3729, "kind": "PERSON", "text": "تركي الحمد", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 3826, "end": 3852, "kind": "PERSON", "text": "رجاء محمد عالم", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 4012, "end": 4061, "kind": "PERSON", "text": "عبده محمد علي هادي خال حمدي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 4169, "end": 4217, "kind": "PERSON", "text": "غازي بن عبد الرحمن القصيبي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 4339, "end": 4372, "kind": "PERSON", "text": "ماجد أحمد عبد الله", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 4554, "end": 4628, "kind": "PERSON", "text": "تركي بن عبد المحسن بن عبد اللطيف آل الشيخ", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 4819, "end": 4860, "kind": "PERSON", "text": "لولوة راشد محمد الخاطر", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 5046, "end": 5122, "kind": "PERSON", "text": "محمد بن عبد الرحمن العريفي الجبري الخالدي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 5280, "end": 5301, "kind": "PERSON", "text": "ناصر القصبي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 5361, "end": 5400, "kind": "PERSON", "text": "ياسر بن عثمان الرميان", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 5596, "end": 5661, "kind": "PERSON", "text": "عبد الله بن محمد بن عبد الله الغذامي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 5755, "end": 5809, "kind": "PERSON", "text": "إبراهيم بن عبد العزيز العسّاف", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 5928, "end": 6023, "kind": "PERSON", "text": "عادل بن أحمد بن محمد بن عثمان الجُبير المطرفي الهذلي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 6121, "end": 6210, "kind": "PERSON", "text": "فيصل بن فرحان بن عبد الله بن فيصل بن فرحان آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 6319, "end": 6358, "kind": "PERSON", "text": "محمد عبد الله الجدعان", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 6547, "end": 6575, "kind": "PERSON", "text": "أنور محمد قرقاش", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 6757, "end": 6793, "kind": "PERSON", "text": "خلدون خليفة المبارك", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 6895, "end": 6939, "kind": "PERSON", "text": "عبدالله بن زايد آل نهيان", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 7087, "end": 7137, "kind": "PERSON", "text": "خالد بن حمد بن عيسى آل خليفة", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 7321, "end": 7359, "kind": "PERSON", "text": "سلمان بن حمد آل خليفة", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 7478, "end": 7516, "kind": "PERSON", "text": "أحمد بن محمد آل خليفة", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 7603, "end": 7642, "kind": "PERSON", "text": "بدر أحمد بدر المطوَّع", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 7751, "end": 7775, "kind": "PERSON", "text": "سعاد عبد الله", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 7979, "end": 8021, "kind": "PERSON", "text": "أكرم حسن عفيف يحيى عفيف", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 8217, "end": 8277, "kind": "PERSON", "text": "محمد بن عبدالرحمن بن جاسم آل ثاني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 8446, "end": 8492, "kind": "PERSON", "text": "حمد بن جاسم بن جبر آل ثاني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 8637, "end": 8658, "kind": "PERSON", "text": "أحمد الهرمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 8744, "end": 8798, "kind": "PERSON", "text": "علي بن عبد الله بن حارب الحبسي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 8965, "end": 9034, "kind": "PERSON", "text": "عبد الرحمن بن محمد بن عبد الله السدحان", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 9173, "end": 9196, "kind": "PERSON", "text": "جوخة الحارثي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 9246, "end": 9265, "kind": "PERSON", "text": "سيف الرحبي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 9402, "end": 9443, "kind": "PERSON", "text": "جاسم حمد عبدالله الصقر", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 9576, "end": 9593, "kind": "PERSON", "text": "سعد الفرج", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 9642, "end": 9698, "kind": "PERSON", "text": "سلمان بن فهد بن عبد الله العودة", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 9814, "end": 9856, "kind": "PERSON", "text": "عائض بن عبد الله القرني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 9942, "end": 10011, "kind": "PERSON", "text": "عبد الله بن عبد العزيز بن محمد الربيعة", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 10147, "end": 10186, "kind": "PERSON", "text": "عمر محمد راشد المالكي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 10337, "end": 10367, "kind": "PERSON", "text": "فيصل سعد الدوسري", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 10497, "end": 10546, "kind": "PERSON", "text": "محمد عبدالعزيز دعيع الشمري", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 10686, "end": 10727, "kind": "PERSON", "text": "محمد بندر سعود الشلهوب", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 10883, "end": 10979, "kind": "PERSON", "text": "نورة بنت محمد بن عبدالله بن فيصل بن عبدالعزيز آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 11128, "end": 11206, "kind": "PERSON", "text": "ريما بنت بندر بن سلطان بن عبدالعزيز آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 11377, "end": 11431, "kind": "PERSON", "text": "عبدالله بن علي النجدي القصيمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 11553, "end": 11566, "kind": "PERSON", "text": "حسن رجب", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 11626, "end": 11654, "kind": "PERSON", "text": "فهد صالح العنزي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 11806, "end": 11829, "kind": "PERSON", "text": "محمد المقهوي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 11959, "end": 12009, "kind": "PERSON", "text": "مرزوق علي محمد ثنيان الغانم", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 12175, "end": 12205, "kind": "PERSON", "text": "بدر ناصر الهويدي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 12292, "end": 12327, "kind": "PERSON", "text": "ناصر بن صالح العطية", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 12447, "end": 12482, "kind": "PERSON", "text": "سعود بن صقر القاسمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 12703, "end": 12754, "kind": "PERSON", "text": "سلطان بن محمد بن صقر القاسمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 12924, "end": 12981, "kind": "PERSON", "text": "مريم بنت محمد سعيد حارب المهيري", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 13145, "end": 13242, "kind": "PERSON", "text": "حمد بن خليفة بن حمد بن عبد الله بن جاسم بن محمد بن ثاني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 13306, "end": 13347, "kind": "PERSON", "text": "عبد الرحمن حمود السميط", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 13515, "end": 13576, "kind": "PERSON", "text": "خالد بن فيصل بن عبد العزيز آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 13737, "end": 13798, "kind": "PERSON", "text": "محمد بن نايف بن عبد العزيز آل سعود", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 13975, "end": 14024, "kind": "PERSON", "text": "سلمان بن محمد بن محمد الفرج", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 14100, "end": 14153, "kind": "PERSON", "text": "منصور بن حمدان بن حامد البلوي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 14311, "end": 14388, "kind": "PERSON", "text": "سعد بن راشد بن محمد الفقيه العنقري التميمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 14488, "end": 14509, "kind": "PERSON", "text": "كوثر الأربش", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 14679, "end": 14707, "kind": "PERSON", "text": "محمد عبده يماني", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 14898, "end": 14948, "kind": "PERSON", "text": "محمد أحمد محمد المر الفلاسي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 15149, "end": 15182, "kind": "PERSON", "text": "علي عبد الله خليفة", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 15278, "end": 15316, "kind": "PERSON", "text": "قابوس بن سعيد آل سعيد", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 15472, "end": 15495, "kind": "PERSON", "text": "سلوى المطيري", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 15576, "end": 15619, "kind": "PERSON", "text": "جابر مبارك الحمد الصباح", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 15807, "end": 15828, "kind": "PERSON", "text": "بدرية البشر", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 15958, "end": 16010, "kind": "PERSON", "text": "سعاد محمد صباح المحمد الصباح", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 16185, "end": 16211, "kind": "PERSON", "text": "فوزية أبو خالد", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 16325, "end": 16382, "kind": "PERSON", "text": "ليلى عبدالله عبداللطيف العثمان", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 16450, "end": 16480, "kind": "PERSON", "text": "حسين جمعة الجسمي", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 16584, "end": 16612, "kind": "PERSON", "text": "عبد الله الروشد", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 16668, "end": 16691, "kind": "PERSON", "text": "وداد الكواري", "confidence_floor": 0.85}
+{"file": "bulk_person_arabic.txt", "start": 16768, "end": 16810, "kind": "PERSON", "text": "خليفة بن سلمان آل خليفة", "confidence_floor": 0.85}

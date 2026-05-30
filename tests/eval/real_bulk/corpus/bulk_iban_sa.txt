@@ -1,0 +1,42 @@
+An example IBAN in electronic format is SA0380000000608010167519, and in print format is SA03 8000 0000 6080 1016 7519.
+IBAN structure example for Saudi Arabia (SA): SA4420000001234567891234 (24 characters).
+Electronic format IBAN example: SA3915000999103143430001; printed in groups of four characters separated by spaces.
+Example IBAN for an Al Rajhi Bank account in Saudi Arabia: SA0580000858608017385712.
+The Saudi National Bank IBAN code details for SA4210000071400001261008.
+Example IBAN for a Riyad Bank account in Saudi Arabia: SA4120000003030953989940.
+Example IBAN for a Banque Saudi Fransi account in Saudi Arabia: SA5655000000083793500149.
+Example IBAN for an Alinma Bank account in Saudi Arabia: SA6805000084000066666000.
+Example IBAN for an Arab National Bank account in Saudi Arabia: SA0530400108061804740012.
+Example IBAN for The Saudi Investment Bank account in Saudi Arabia: SA1265000000101010840001.
+Example IBAN for a Bank Albilad account in Saudi Arabia: SA8715000452133742070015.
+Example IBAN for an Emirates NBD KSA account in Saudi Arabia: SA1795000000216054202710.
+Al Rajhi Bank IBAN code details for SA1680000106608016846449 in Saudi Arabia.
+Al Rajhi Bank IBAN code details for SA7880000106608017834733 in Saudi Arabia.
+Al Rajhi Bank IBAN code details for SA8180000858608017981767 in Saudi Arabia.
+Al Rajhi Bank IBAN code details for SA8580000660608016209414 in Saudi Arabia.
+Al Rajhi Bank IBAN code details for SA8780000582608010011001 in Saudi Arabia.
+The Saudi National Bank IBAN code details for SA6210000011414237040102 in Saudi Arabia.
+Riyad Bank IBAN code details for SA1320000006215611989940 in Saudi Arabia.
+Arab National Bank IBAN code details for SA8630400108083186770012 in Saudi Arabia.
+Saudi Arabia IBAN code lookup result for SA0660100010281800459001.
+Saudi Arabia IBAN code lookup result for SA0710000059400003387605.
+Saudi Arabia IBAN code lookup result for SA1205000068205320524000.
+Saudi Arabia IBAN code lookup result for SA3605000068200813327000.
+Saudi Arabia IBAN code lookup result for SA4245000000260138573001.
+Saudi Arabia IBAN code lookup result for SA4320000004000071139942.
+Saudi Arabia IBAN code lookup result for SA5410000078052827000100.
+Saudi Arabia IBAN code lookup result for SA5720000003466665690440.
+Saudi Arabia IBAN code lookup result for SA6145000000611093311001.
+Saudi Arabia IBAN code lookup result for SA6410000010170345000100.
+Saudi Arabia IBAN code lookup result for SA6480000240608010196616.
+Saudi Arabia IBAN code lookup result for SA6680000521608016239501.
+Saudi Arabia IBAN code lookup result for SA7245000000358232668150.
+Saudi Arabia IBAN code lookup result for SA7280000204608017431465.
+Saudi Arabia IBAN code lookup result for SA7780000640608013476128.
+Saudi Arabia IBAN code lookup result for SA8386000000002730001130.
+Saudi Arabia IBAN code lookup result for SA8510000011948966000103.
+Saudi Arabia IBAN code lookup result for SA8980000243608010209499.
+Saudi Arabia IBAN code lookup result for SA9120000009250306839940.
+Saudi Arabia IBAN code lookup result for SA9610000030101456000104.
+Saudi Arabia IBAN code lookup result for SA9820000002000306939941.
+Saudi Arabia IBAN code lookup result for SA9845000000262364185001.
