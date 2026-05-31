@@ -10,20 +10,7 @@
 pip install "apii[all]"
 ```
 
-```mermaid
-flowchart LR
-  subgraph you["🖥️ Your machine"]
-    A["Your text and files<br/>names · IBANs · IDs · …"] --> B["apii<br/>detect + tokenize"]
-    B <--> V[("encrypted vault<br/>+ your secret")]
-    D["apii<br/>restore"] <--> V
-    D --> R["Real values<br/>only you ever see them"]
-  end
-  subgraph cloud["☁️ Cloud LLM"]
-    M["Claude · GPT · Copilot · …<br/>sees tokens only"]
-  end
-  B -- "tokens only" --> M
-  M -- "reply, still tokens" --> D
-```
+![apii runs on your machine — it detects and tokenizes PII before anything is sent, the cloud model sees only tokens, and the real values are restored locally from an encrypted vault.](https://raw.githubusercontent.com/Aajil-Labs/arabic-pii-py/main/assets/apii-flow.png)
 
 Only tokens ever cross to the model. The single network call `apii` makes is a one-time, optional model download — point it at your own copy and it runs fully offline, forever.
 
@@ -88,18 +75,7 @@ Run one local gateway and point any client's base URL at it. `apii` tokenizes th
 apii serve     # → http://127.0.0.1:8720   (--host / --port to change)
 ```
 
-```mermaid
-sequenceDiagram
-  participant App as Your app / AI tool
-  participant Apii as apii proxy (local)
-  participant LLM as OpenAI / Anthropic / …
-  App->>Apii: request with real PII
-  Note over Apii: detect + tokenize<br/>vault stays on disk
-  Apii->>LLM: forward — tokens only
-  LLM-->>Apii: completion (tokens)
-  Note over Apii: restore from vault
-  Apii-->>App: completion with real values
-```
+![The apii proxy round-trip — your app sends real PII to the local proxy, only tokens are forwarded to the provider, and the reply is de-anonymized back to real values before it returns.](https://raw.githubusercontent.com/Aajil-Labs/arabic-pii-py/main/assets/apii-proxy.png)
 
 One port speaks three wire formats — OpenAI Chat, OpenAI Responses (what Codex uses), and Anthropic Messages — so it fronts OpenAI, Anthropic, Codex, and anything OpenAI-compatible (OpenRouter, LiteLLM, Together, vLLM…). Choose the upstream with `APII_OPENAI_BASE` / `APII_ANTHROPIC_BASE`.
 

@@ -26,7 +26,8 @@ from apii.anonymizer import Anonymizer
 from apii.policy import AnonymizationMode, AnonymizationPolicy
 from apii.types import EntityKind
 
-app = typer.Typer(add_completion=False, help="Arabic/GCC PII gateway CLI.")
+app = typer.Typer(add_completion=False, help="Arabic/GCC PII gateway CLI.",
+                  context_settings={"help_option_names": ["-h", "--help"]})
 
 
 def _resolve_secret(secret: Optional[str]) -> str:
